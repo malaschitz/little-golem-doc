@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Goldydocs"
+title = "LittleGolem Documenation"
 
 enableRobotsTXT = true
 
@@ -53,11 +53,20 @@ id = "UA-00000000-0"
 
 [languages]
 [languages.en]
-title = "Goldydocs"
+title = "LG-Docs"
 description = "A Docsy example site"
 languageName ="English"
 # Weight used for sorting.
 weight = 1
+
+[languages.sk]
+title = "Goldydocs"
+description = "Dokumentácia k LittleGolemu"
+languageName ="Slovenčina"
+contentDir = "content/sk"
+time_format_default = "02.01.2006"
+time_format_blog = "02.01.2006"
+
 
 [markup]
   [markup.goldmark]
