@@ -4,17 +4,17 @@ title: "Tournaments"
 linkTitle: "Tournaments"
 weight: 8
 description: >
-  Popis turnajov
+  Tournament description
 ---
 
-Na *LittleGolem* sa pre každú hru hrajú turnaje:
+On *LittleGolem* are played tournaments for every game:
 
 * Championship
 * Monthly Cup
 * Ladder
 * User tournaments
 
-Okrem toho funguje Waitting Room a je možné aj vyzvať ku hre jednotlivých súperov.
+There exists Waitting Room and is possible to invite to play some player.
 
 ## Championship
 
