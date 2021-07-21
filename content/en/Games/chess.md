@@ -1,9 +1,9 @@
 ---
 title: "Chess"
-date: 2017-01-05
-weight: 2
+date: 2021-07-12
+weight: 10
 description: >
-  Rules and information about chess.
+  Classic board game chess
 ---
 
 Chess is classic board game. Probably the most popular board game in the world, at least in Europe and in America.
@@ -11,9 +11,10 @@ Chess is classic board game. Probably the most popular board game in the world, 
 ## Rules
 
 The rules of chess are on a lot of places:
-* [wikipedia.org chess](https://en.wikipedia.org/wiki/Chess#Rules)
-* [wikipedia.org chess rules](https://en.wikipedia.org/wiki/Rules_of_chess)
-* [chess.com](https://www.chess.com/learn-how-to-play-chess) animated and videos
+- [wikipedia.org chess](https://en.wikipedia.org/wiki/Chess#Rules)
+- [wikipedia.org chess rules](https://en.wikipedia.org/wiki/Rules_of_chess)
+- [chess.com](https://www.chess.com/learn-how-to-play-chess) animated and videos
+
 
 ## Variant - Chess960
 
