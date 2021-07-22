@@ -59,13 +59,13 @@ languageName ="English"
 # Weight used for sorting.
 weight = 1
 
-[languages.sk]
-title = "LG-Docs"
-description = "Dokumentácia k LittleGolemu"
-languageName ="Slovenčina"
-contentDir = "content/sk"
-time_format_default = "02.01.2006"
-time_format_blog = "02.01.2006"
+#[languages.sk]
+#title = "LG-Docs"
+#description = "Dokumentácia k LittleGolemu"
+#languageName ="Slovenčina"
+#contentDir = "content/sk"
+#time_format_default = "02.01.2006"
+#time_format_blog = "02.01.2006"
 
 
 [markup]
