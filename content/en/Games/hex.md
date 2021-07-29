@@ -1,7 +1,7 @@
 ---
 title: "Hex"
 date: 2021-07-21
-weight: 20
+weight: 160
 description: >
   Hex invented in 1942
 ---
