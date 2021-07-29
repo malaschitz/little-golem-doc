@@ -16,6 +16,7 @@ Chess is classic board game. Probably the most popular board game in the world, 
 The rules of chess are on a lot of places:
 - [wikipedia.org chess](https://en.wikipedia.org/wiki/Chess#Rules)
 - [wikipedia.org chess rules](https://en.wikipedia.org/wiki/Rules_of_chess)
+- [FIDE](https://www.fide.com/) - International Chess Federation
 - [chess.com](https://www.chess.com/learn-how-to-play-chess) animated and videos
 
 
