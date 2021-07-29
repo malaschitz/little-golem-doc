@@ -8,6 +8,9 @@ description: >
 
 Chess is classic board game. Probably the most popular board game in the world, at least in Europe and in America.
 
+![chess](/games/chess01.jpeg)
+[Raffaello Sorbi](https://en.wikipedia.org/wiki/Raffaello_Sorbi) - La partita a scacchi/Chess game
+
 ## Rules
 
 The rules of chess are on a lot of places:
