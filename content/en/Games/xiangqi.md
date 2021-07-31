@@ -6,3 +6,4 @@ description: >
   
 ---
 
+[Board game geek](https://boardgamegeek.com/boardgame/2393/xiangqi)

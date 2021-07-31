@@ -6,3 +6,4 @@ description: >
   
 ---
 
+[Board Game Geek](https://boardgamegeek.com/boardgame/949/twixt)
