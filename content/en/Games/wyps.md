@@ -126,8 +126,8 @@ WYPS can be played on any board sizes and in any language.
 | 9 | 6 | 45 | AAABCDEEEE EEEFGGHHII KLLMNNNOOP RRRSSSTTTT UUWZÄ |
 | 10 | 6 | 55 | AAABBCDEEE EEEEFGGHHI IIKKLLLMMN NNNOOPRRRR SSSSTTTTUU WZÄÖÜ |
 | 11 | 7 | 66 | AAAABBCDDE EEEEEEEEFF GGHHIIIKKL LLMMNNNNNO OPPRRRRRSS SSSTTTTTUU VWZÄÖÜ |
-| 12 | 8 | 78 | AAAAABBCCD DEEEEEEEEE EEFFGGGHHH IIIIKKLLLL MMNNNNNOOO PPRRRRRSSS SSSTTTTTTU UUVWZÄÖÜ  |
-| 13 | 9 | 91 | AAAAAABBBC CDDEEEEEEE EEEEEEEFFG GGHHHIIIIK KKLLLLLMMM NNNNNNOOOP PRRRRRRSSS SSSSTTTTTT TUUUUVWZÄÖÜ |
+| 12 | 8 | 78 | AAAAABBCCD DEEEEEEEEE EEFFGGGHHH IIIIKKLLLL MMNNNNNOOO PPRRRRRSSS SSSTTTTTTU UUVWZÄÖÜ |
+| 13 | 9 | 91 | AAAAAABBBC CDDEEEEEEE EEEEEEEFFG GGHHHIIIIK KKLLLLLMMM NNNNNNOOOP PRRRRRRSSS SSSSTTTTTT TUUUUVWZÄÖ Ü |
 | 14 | 9 | 105 | AAAAAAABBB CCDDDEEEEE EEEEEEEEEE EFFGGGGHHH HIIIIIKKKL LLLLMMMNNN NNNNNOOOPP RRRRRRRSSS SSSSSTTTTT TTTTUUUUVW ZZÄÖÜ |
 
 #### Spain 
@@ -179,16 +179,17 @@ WYPS can be played on any board sizes and in any language.
 
 | Size | Rack size | Board size | Letters |
 | --- | --- | --- | --- |
-| 5 | 3 | 15 | いうかき くこさしたつとはより ん |
-| 6 | 4 | 21 | いうかき くけこさしせたちつと はふやよりんん |
-| 7 | 4 | 28 | いいうう おかきくけこさししせ たちつとはひふまやゆ よりんん |
-| 8 | 5 | 36 | いいうう おかかきくけこさしし すせそたちつてとなは ひふほまみやゆよりん んん |
-| 9 | 6 | 45 | あいいい うううえおかかききく くけこさしししすせそ たちつてとなはひふほ まみもやゆよらりんん ん |
-| 10 | 6 | 55 | あいいい ううううえおかかかき きくくけこさしししす せそたちつつてとなに のはひふほまみめもや ゆよよらりろわんんん ん |
-| 11 | 7 | 66 | あいいい いうううううえおかか かきききくくくけここ さししししすせせそた たちつつてととなにの はひふへほまみめもや ゆよよらりろわんんん んん |
-| 12 | 8 | 78 | あいいい いいううううううえお かかかかきききくくく けここささししししし すせせそたたちちつつ つてととなにのははひ ふへほまみめもやゆよ よよらりりれろわんん んんんん |
-| 13 | 9 | 91 | あいいい いいいううううううう えおかかかかきききき くくくけけこここささ ししししししすせせそ たたちちつつつてとと なにねのははひふふへ ほまみむめもややゆゆ よよよらりりるれろわ んんんんんんん |
-| 14 | 9 | 105 | あいいい いいいいうううううう うううえおかかかかか ききききくくくくけけ こここささししししし ししすせせそたたたち ちつつつつててととな にねのははひひふふへ ほほまみむめもややゆ ゆよよよよらりりるれ ろわんんんんんんんん ん |
+| 5 | 3 | 15 | いうかきくこさしたつ とはよりん |
+| 6 | 4 | 21 | いうかきくけこさしせ たちつとはふやよりん ん |
+| 7 | 4 | 28 | いいううおかきくけこ さししせたちつとはひ ふまやゆよりんん |
+| 8 | 5 | 36 | いいううおかかきくけ こさししすせそたちつ てとなはひふほまみや ゆよりんんん |
+| 9 | 6 | 45 | あいいいうううえおか かききくくけこさしし しすせそたちつてとな はひふほまみもやゆよ らりんんん |
+| 10 | 6 | 55 | あいいいううううえお かかかききくくけこさ しししすせそたちつつ てとなにのはひふほま みめもやゆよよらりろ わんんんん |
+| 11 | 7 | 66 | あいいいいううううう えおかかかきききくく くけここさししししす せせそたたちつつてと となにのはひふへほま みめもやゆよよらりろ わんんんんん |
+| 12 | 8 | 78 | あいいいいいうううう ううえおかかかかきき きくくくけここささし ししししすせせそたた ちちつつつてととなに のははひふへほまみめ もやゆよよよらりりれ ろわんんんんんん |
+| 13 | 9 | 91 | あいいいいいいううう ううううえおかかかか ききききくくくけけこ ここささしししししし すせせそたたちちつつ つてととなにねのはは ひふふへほまみむめも ややゆゆよよよらりり るれろわんんんんんん ん |
+| 14 | 9 | 105 | あいいいいいいいうう うううううううえおか かかかかききききくく くくけけこここささし ししししししすせせそ たたたちちつつつつて てととなにねのははひ ひふふへほほまみむめ もややゆゆよよよよら りりるれろわんんんん んんんんん |
+
 
 #### Dutch
 
@@ -211,72 +212,73 @@ WYPS can be played on any board sizes and in any language.
 | --- | --- | --- | --- |
 | 5 | 3 | 15 | AEIKLMNORS TUWYZ |
 | 6 | 4 | 21 | AABCDEIKLM NOPRSTUWYZ Ł |
-| 7 | 4 | 28 | AABCDEEGII JKLMNOOPRS TUWYZĄĘŁ  |
+| 7 | 4 | 28 | AABCDEEGII JKLMNOOPRS TUWYZĄĘŁ |
 | 8 | 5 | 36 | AAABCDEEGH IIJKKLMMNN OOOPRRSTUW YZĄĘŁŻ |
 | 9 | 6 | 45 | AAAABCCDEE EGHIIIJKKL MMNNOOOPRR SSTUUWWYYZ ZĄĘŁŻ |
 | 10 | 6 | 55 | AAAAABCCDE EEFGHIIIIJ KKKLLMMNNO OOOPPRRRSS TTUUWWYYZZ ÓĄĘŁŻ |
-| 11 | 7 | 66 | AAAAAABCCD DEEEEFGHII IIJKKKLLMM MNNNOOOOOP PRRRSSSTTU UUWWYYYZZÓ ĄĘŁŁŚ Ż |
-| 12 | 8 | 78 | AAAAAAABBC CCDDEEEEFG HIIIIIJJKK KLLLMMMNNN OOOOOOPPRR RRSSSTTUUU WWWYYYZZZÓ ĄĄĆĘŁ ŁŚŻ |
-| 13 | 9 | 91 | AAAAAAAAAB BCCCDDEEEE EFGGHIIIII IJJKKKKLLL MMMMNNNNOO OOOOOPPPRR RRSSSTTTUU UUWWWYYYYZ ZZÓĄĄĆĘŁŁŚŻ |
-| 14 | 9 | 105 | AAAAAAAAAA BBCCCCDDDE EEEEEFGGHI IIIIIIJJKK KKKLLLMMMM NNNNNOOOOO OOOPPPRRRR RSSSSTTTUU UUWWWWYYYY ZZZZÓĄĄĆĘŁŁŁŃŚŻ |
+| 11 | 7 | 66 | AAAAAABCCD DEEEEFGHII IIJKKKLLMM MNNNOOOOOP PRRRSSSTTU UUWWYYYZZÓ ĄĘŁŁŚŻ |
+| 12 | 8 | 78 | AAAAAAABBC CCDDEEEEFG HIIIIIJJKK KLLLMMMNNN OOOOOOPPRR RRSSSTTUUU WWWYYYZZZÓ ĄĄĆĘŁŁŚŻ |
+| 13 | 9 | 91 | AAAAAAAAAB BCCCDDEEEE EFGGHIIIII IJJKKKKLLL MMMMNNNNOO OOOOOPPPRR RRSSSTTTUU UUWWWYYYYZ ZZÓĄĄĆĘŁŁŚ Ż |
+| 14 | 9 | 105 | AAAAAAAAAA BBCCCCDDDE EEEEEFGGHI IIIIIIJJKK KKKLLLMMMM NNNNNOOOOO OOOPPPRRRR RSSSSTTTUU UUWWWWYYYY ZZZZÓĄĄĆĘŁ ŁŁŃŚŻ |
+
 
 #### Russian
 
 | Size | Rack size | Board size | Letters |
 | --- | --- | --- | --- |
-| 5 | 3 | 15 | АВЕИКЛМНОПРСТУЯ |
-| 6 | 4 | 21 | ААБВДЕИКЛМНООПРСТУЫЮЯ |
-| 7 | 4 | 28 | ААБВГДЕЕЗИИКЛМНООПРСТУХЧШЫЮЯ |
-| 8 | 5 | 36 | АААБВГДЕЕЗИИЙКЛЛМННОООПРРСТТУХЧШЫЬЮЯ |
-| 9 | 6 | 45 | ААААБВВГДЕЕЕЖЗИИИЙККЛЛММННОООПРРССТТУУХЧШЫЬЮЯ |
-| 10 | 6 | 55 | АААААБВВГДЕЕЕЕЖЗИИИЙККЛЛЛММНННООООППРРРССТТТУУХЧШЩЫЬЮЯЁ |
-| 11 | 7 | 66 | АААААБВВГДДЕЕЕЕЕЖЗИИИИЙКККЛЛЛМММНННОООООППРРРСССТТТУУУХЦЧШЩЫЫЬЮЯЯЁ |
-| 12 | 8 | 78 | АААААААББВВВГДДЕЕЕЕЕЖЗЗИИИИИЙКККЛЛЛЛМММННННООООООППРРРРСССТТТТУУУУХЦЧШЩЫЫЬЮЯЯЁ |
-| 13 | 9 | 91 | ААААААААББВВВГДДЕЕЕЕЕЕЖЗЗИИИИИИЙККККЛЛЛЛММММНННННОООООООПППРРРРССССТТТТТУУУУФХХЦЧШЩЫЫЬЮЮЯЯЁ |
-| 14 | 9 | 105 | АААААААААББВВВВГГДДЕЕЕЕЕЕЕЖЗЗИИИИИИИЙЙККККЛЛЛЛЛММММННННННОООООООООПППРРРРРССССТТТТТУУУУФХХЦЧЧШШЩЫЫЬЮЮЯЯЯЁ |
+| 5 | 3 | 15 | АВЕИКЛМНОП РСТУЯ |
+| 6 | 4 | 21 | ААБВДЕИКЛМ НООПРСТУЫЮ Я |
+| 7 | 4 | 28 | ААБВГДЕЕЗИ ИКЛМНООПРС ТУХЧШЫЮЯ |
+| 8 | 5 | 36 | АААБВГДЕЕЗ ИИЙКЛЛМННО ООПРРСТТУХ ЧШЫЬЮЯ |
+| 9 | 6 | 45 | ААААБВВГДЕ ЕЕЖЗИИИЙКК ЛЛММННОООП РРССТТУУХЧ ШЫЬЮЯ |
+| 10 | 6 | 55 | АААААБВВГД ЕЕЕЕЖЗИИИЙ ККЛЛЛММННН ООООППРРРС СТТТУУХЧШЩ ЫЬЮЯЁ |
+| 11 | 7 | 66 | АААААБВВГД ДЕЕЕЕЕЖЗИИ ИИЙКККЛЛЛМ ММНННООООО ППРРРСССТТ ТУУУХЦЧШЩЫ ЫЬЮЯЯЁ |
+| 12 | 8 | 78 | АААААААББВ ВВГДДЕЕЕЕЕ ЖЗЗИИИИИЙК ККЛЛЛЛМММН НННООООООП ПРРРРСССТТ ТТУУУУХЦЧШ ЩЫЫЬЮЯЯЁ |
+| 13 | 9 | 91 | ААААААААББ ВВВГДДЕЕЕЕ ЕЕЖЗЗИИИИИ ИЙККККЛЛЛЛ ММММНННННО ООООООПППР РРРССССТТТ ТТУУУУФХХЦ ЧШЩЫЫЬЮЮЯЯ Ё |
+| 14 | 9 | 105 | АААААААААБ БВВВВГГДДЕ ЕЕЕЕЕЕЖЗЗИ ИИИИИИЙЙКК ККЛЛЛЛЛМММ МННННННООО ООООООПППР РРРРССССТТ ТТТУУУУФХХ ЦЧЧШШЩЫЫЬЮ ЮЯЯЯЁ |
 
 #### Greek
 
 | Size | Rack size | Board size | Letters |
 | --- | --- | --- | --- |
-| 5 | 3 | 15 | ΑΑΕΗΙΚΛΜΝΟΡΣΤΥΩ |
-| 6 | 4 | 21 | ΑΑΓΕΕΗΙΙΚΛΜΝΟΟΠΡΣΣΤΥΩ |
-| 7 | 4 | 28 | ΑΑΑΒΓΔΕΕΗΘΙΙΚΛΜΝΝΟΟΠΡΣΣΤΥΦΧΩ |
-| 8 | 5 | 36 | ΑΑΑΑΒΓΔΕΕΕΗΘΙΙΙΚΛΜΝΝΟΟΟΠΡΡΣΣΣΤΤΥΥΦΧΩ |
-| 9 | 6 | 45 | ΑΑΑΑΑΒΓΔΕΕΕΕΖΗΗΘΙΙΙΙΚΚΛΛΜΝΝΞΟΟΟΠΡΡΣΣΣΤΤΥΥΦΧΩΩ |
-| 10 | 6 | 55 | ΑΑΑΑΑΑΒΓΔΕΕΕΕΕΖΗΗΘΙΙΙΙΚΚΛΛΜΜΝΝΝΞΟΟΟΟΠΠΡΡΡΣΣΣΣΤΤΤΥΥΥΦΧΩΩ |
-| 11 | 7 | 66 | ΑΑΑΑΑΑΑΑΒΓΔΕΕΕΕΕΕΖΗΗΗΘΙΙΙΙΙΚΚΚΛΛΜΜΝΝΝΝΞΟΟΟΟΟΠΠΡΡΡΣΣΣΣΣΤΤΤΥΥΥΦΧΨΩΩΩ |
-| 12 | 8 | 78 | ΑΑΑΑΑΑΑΑΑΒΓΓΔΔΕΕΕΕΕΕΕΖΗΗΗΘΙΙΙΙΙΙΚΚΚΛΛΛΜΜΜΝΝΝΝΞΟΟΟΟΟΟΠΠΡΡΡΡΣΣΣΣΣΣΤΤΤΤΥΥΥΥΦΧΨΩΩΩ |
-| 13 | 9 | 91 | ΑΑΑΑΑΑΑΑΑΑΒΓΓΔΔΕΕΕΕΕΕΕΕΖΗΗΗΘΙΙΙΙΙΙΙΚΚΚΚΛΛΛΜΜΜΝΝΝΝΝΞΟΟΟΟΟΟΟΠΠΠΡΡΡΡΡΣΣΣΣΣΣΣΤΤΤΤΤΥΥΥΥΦΦΧΧΨΩΩΩΩ |
-| 14 | 9 | 105 | ΑΑΑΑΑΑΑΑΑΑΑΑΒΓΓΔΔΕΕΕΕΕΕΕΕΕΖΗΗΗΗΘΙΙΙΙΙΙΙΙΙΚΚΚΚΛΛΛΛΜΜΜΜΝΝΝΝΝΝΞΟΟΟΟΟΟΟΟΟΠΠΠΡΡΡΡΡΣΣΣΣΣΣΣΣΤΤΤΤΤΤΥΥΥΥΥΦΦΧΧΨΩΩΩΩ |
+| 5 | 3 | 15 | ΑΑΕΗΙΚΛΜΝΟ ΡΣΤΥΩ |
+| 6 | 4 | 21 | ΑΑΓΕΕΗΙΙΚΛ ΜΝΟΟΠΡΣΣΤΥ Ω |
+| 7 | 4 | 28 | ΑΑΑΒΓΔΕΕΗΘ ΙΙΚΛΜΝΝΟΟΠ ΡΣΣΤΥΦΧΩ |
+| 8 | 5 | 36 | ΑΑΑΑΒΓΔΕΕΕ ΗΘΙΙΙΚΛΜΝΝ ΟΟΟΠΡΡΣΣΣΤ ΤΥΥΦΧΩ |
+| 9 | 6 | 45 | ΑΑΑΑΑΒΓΔΕΕ ΕΕΖΗΗΘΙΙΙΙ ΚΚΛΛΜΝΝΞΟΟ ΟΠΡΡΣΣΣΤΤΥ ΥΦΧΩΩ |
+| 10 | 6 | 55 | ΑΑΑΑΑΑΒΓΔΕ ΕΕΕΕΖΗΗΘΙΙ ΙΙΚΚΛΛΜΜΝΝ ΝΞΟΟΟΟΠΠΡΡ ΡΣΣΣΣΤΤΤΥΥ ΥΦΧΩΩ |
+| 11 | 7 | 66 | ΑΑΑΑΑΑΑΑΒΓ ΔΕΕΕΕΕΕΖΗΗ ΗΘΙΙΙΙΙΚΚΚ ΛΛΜΜΝΝΝΝΞΟ ΟΟΟΟΠΠΡΡΡΣ ΣΣΣΣΤΤΤΥΥΥ ΦΧΨΩΩΩ |
+| 12 | 8 | 78 | ΑΑΑΑΑΑΑΑΑΒ ΓΓΔΔΕΕΕΕΕΕ ΕΖΗΗΗΘΙΙΙΙ ΙΙΚΚΚΛΛΛΜΜ ΜΝΝΝΝΞΟΟΟΟ ΟΟΠΠΡΡΡΡΣΣ ΣΣΣΣΤΤΤΤΥΥ ΥΥΦΧΨΩΩΩ |
+| 13 | 9 | 91 | ΑΑΑΑΑΑΑΑΑΑ ΒΓΓΔΔΕΕΕΕΕ ΕΕΕΖΗΗΗΘΙΙ ΙΙΙΙΙΚΚΚΚΛ ΛΛΜΜΜΝΝΝΝΝ ΞΟΟΟΟΟΟΟΠΠ ΠΡΡΡΡΡΣΣΣΣ ΣΣΣΤΤΤΤΤΥΥ ΥΥΦΦΧΧΨΩΩΩ Ω |
+| 14 | 9 | 105 | ΑΑΑΑΑΑΑΑΑΑ ΑΑΒΓΓΔΔΕΕΕ ΕΕΕΕΕΕΖΗΗΗ ΗΘΙΙΙΙΙΙΙΙ ΙΚΚΚΚΛΛΛΛΜ ΜΜΜΝΝΝΝΝΝΞ ΟΟΟΟΟΟΟΟΟΠ ΠΠΡΡΡΡΡΣΣΣ ΣΣΣΣΣΤΤΤΤΤ ΤΥΥΥΥΥΦΦΧΧ ΨΩΩΩΩ |
 
 #### Czech
-
+ 
+ 
 | Size | Rack size | Board size | Letters |
 | --- | --- | --- | --- |
-| 5 | 3 | 15 | AEIKLNOPRS TUVÁÍ |
-| 6 | 4 | 21 | ADEHIJKLMN OPRSTUVYZÁ Í |
-| 7 | 4 | 28 | AABDEEHIJK LLMNNOOPRS TUVYZÁÍŠ  |
-| 8 | 5 | 36 | AABCDEEEHI JKLLMNNOOP RSTTUUVVYZ ÁÍČĚŘŠ |
-| 9 | 6 | 45 | AAABCDEEEH IIJKLLMNNN OOOPPRSTTU UVVYZÁÁÍ ÍÝČĚŘ ŠŽ |
-| 10 | 6 | 55 | AAABCDDEEE EHIIJKKLLL MMNNNNOOOP PRRSSTTUUV VYZZÁÁÉÍÍÝČĚŘŠŽ |
-| 11 | 7 | 66 | AAAABCDDEE EEEHIIIJKK LLLLMMNNNN NOOOOPPRRS STTTUUUVVV YYZZÁÁÁÉÍÍÝČĚŘŠŽ |
-| 12 | 8 | 78 | AAAAABCDDE EEEEEHHIII JJKKKLLLLM MNNNNNOOOO OPPPRRRSSS TTTTUUUVVV VYYZZÁÁÁ ÉÍÍÍÝ ČĚŘŠŽ  |
-| 13 | 9 | 91 | AAAAAABBCD DDEEEEEEEH HIIIIJJKKK LLLLLMMMNN NNNNOOOOOO PPPRRRSSST TTTTUUUUVV VVYYZZZÁÁ ÁÉÍÍÍ ÝČĚŘŠ ŠŽ |
-| 14 | 9 | 105 | AAAAAAABBC DDDEEEEEEE EEHHIIIIJJ KKKKLLLLLL MMMNNNNNNN NNOOOOOOOP PPPRRRSSST TTTTUUUUVV VVYYYZZZÁÁÁÁÉÍÍÍÍÝČĚŘŘŠŠŽ |
+| 5 | 3 | 15 | ADEIKLMNOP RSTUV |
+| 6 | 4 | 21 | ABDEHIKLMN OPRSTUVYZÁ Í |
+| 7 | 4 | 28 | AABCDEEHIJ KLMNNOOPRS TUVYZÁÍŠ |
+| 8 | 5 | 36 | AABCDEEEHI IJKLLMNNOO PRSTTUUVYZ ÁÍČĚŘŠ |
+| 9 | 6 | 45 | AAABCDEEEH IIJKKLLMMN NNOOOPRRST TUUVVYZÁÉÍ ÝČĚŘŠ |
+| 10 | 6 | 55 | AAAABCDDEE EEHIIJKKLL LMMNNNOOOO PPRRSSTTUU VVYZÁÁÉÍÍÝ ČĚŘŠŽ |
+| 11 | 7 | 66 | AAAABCDDEE EEEHIIIJKK KLLLMMNNNN OOOOPPRRRS STTTUUUVVV YYZZÁÁÉÍÍÝ ČĚŘŠŮŽ |
+| 12 | 8 | 78 | AAAAABCDDE EEEEFGHHII IJKKKLLLLM MMNNNNNOOO OOPPPRRRSS STTTTUUUUV VVYYZZÁÁÉÍ ÍÝČĚŘŠŮŽ |
+| 13 | 9 | 91 | AAAAAABBCC DDDEEEEEEF GHHIIIIJJK KKLLLLLMMM NNNNNOOOOO OPPPRRRRSS STTTTUUUUV VVVYYZZÁÁÁ ÉÍÍÍÝČĚŘŠŮ Ž |
+| 14 | 9 | 105 | AAAAAAABBC CDDDEEEEEE EEFGHHIIII IJJKKKKLLL LLMMMMNNNN NNNNOOOOOO OPPPRRRRSS SSTTTTTUUU UUVVVVYYZZ ÁÁÁÉÍÍÍÝČĚ ŘŠŠŮŽ |
 
 #### Slovak
-
 | Size | Rack size | Board size | Letters |
 | --- | --- | --- | --- |
 | 5 | 3 | 15 | ADEIKLMNOP RSTUV |
 | 6 | 4 | 21 | ABCDEHIKLM NOPRSTUVZÁ Í |
-| 7 | 4 | 28 | AABCDEEHIK LMNOOPRSTU VYZÁÍÚČ Š |
-| 8 | 5 | 36 | AAABCDEEHI IJKKLLMMNN OOPRRSTUVY ZÁÍÚČŠ  |
-| 9 | 6 | 45 | AAABCDEEEH IIIJKKLLMM NNOOOPRRST TUUVVYZÁÍ ÚÝČŠŤ Ž |
-| 10 | 6 | 55 | AAAABCDDEE EEHIIIJKKL LLMMNNNOOO OPPRRRSSTT UUVVYZÁÁÍÚÝČŠŤŽ |
-| 11 | 7 | 66 | AAAAABCDDE EEEEFGHIII IJKKKLLLMM MNNNOOOOPP RRRSSTTTUU UVVVYZÁÁÉÍÚÝČŠŤŽ |
-| 12 | 8 | 78 | AAAAAABBCC DDEEEEEEFG HHIIIIJKKK LLLLMMMNNN NOOOOOPPRR RRSSTTTUUU VVVYZZÁÁÉÍÍÚÝČĽŠŤŽ |
-| 13 | 9 | 91 | AAAAAAABBC CDDDEEEEEE FGHHIIIIIJ JKKKKLLLLM MMMNNNNNOO OOOOPPPRRR RSSSTTTUUU VVVYZZÁÁÉÍÍÚÚÝČČĽŠŠŤŽ |
-| 14 | 9 | 105 | AAAAAAAABB CCDDDEEEEE EEEFGHHIII IIIJJKKKKL LLLLMMMMNN NNNNOOOOOO OOPPPRRRRR SSSTTTTUUU UVVVVYYZZÁ ÁÁÉÍÍ ÚÚÝČČ ĽŠŠŤŽ  |
+| 7 | 4 | 28 | AABCDEEHIK LMNOOPRSTU VYZÁÍÚČŠ |
+| 8 | 5 | 36 | AAABCDEEHI IJKKLLMMNN OOPRRSTUVY ZÁÍÚČŠ |
+| 9 | 6 | 45 | AAABCDEEEH IIIJKKLLMM NNOOOPRRST TUUVVYZÁÍÚ ÝČŠŤŽ |
+| 10 | 6 | 55 | AAAABCDDEE EEHIIIJKKL LLMMNNNOOO OPPRRRSSTT UUVVYZÁÁÍÚ ÝČŠŤŽ |
+| 11 | 7 | 66 | AAAAABCDDE EEEEFGHIII IJKKKLLLMM MNNNOOOOPP RRRSSTTTUU UVVVYZÁÁÉÍ ÚÝČŠŤŽ |
+| 12 | 8 | 78 | AAAAAABBCC DDEEEEEEFG HHIIIIJKKK LLLLMMMNNN NOOOOOPPRR RRSSTTTUUU VVVYZZÁÁÉÍ ÍÚÝČĽŠŤŽ |
+| 13 | 9 | 91 | AAAAAAABBC CDDDEEEEEE FGHHIIIIIJ JKKKKLLLLM MMMNNNNNOO OOOOPPPRRR RSSSTTTUUU VVVYZZÁÁÉÍ ÍÚÚÝČČĽŠŠŤ Ž |
+| 14 | 9 | 105 | AAAAAAAABB CCDDDEEEEE EEEFGHHIII IIIJJKKKKL LLLLMMMMNN NNNNOOOOOO OOPPPRRRRR SSSTTTTUUU UVVVVYYZZÁ ÁÁÉÍÍÚÚÝČČ ĽŠŠŤŽ |
 
