@@ -5,3 +5,4 @@ tech-doc-hugo
 *.sw?
 
 deploy.sh
+.DS_Store
