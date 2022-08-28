@@ -16,17 +16,17 @@ On *LittleGolem* are played tournaments for every game:
 
 There exists Waitting Room and is possible to invite to play some player.
 
-[Time control](http://localhost:1313/time/) is used in all tournaments. 
+[Time control](http://localhost:1313/time/) is used in all tournaments.
 
 ## Championship
 
-The championship is the main type of tournament on LG. 
+The championship is the main type of tournament on LG.
 Players are divided into groups in each league.
-There is only one group in the first league. 
-In the second league there are two groups. 
-In the third four, etc. 
+There is only one group in the first league.
+In the second league there are two groups.
+In the third four, etc.
 
-The winner in the first league is the champion. 
+The winner in the first league is the champion.
 
 The top two players in each group advance to the next higher league. 
 Players up to fifth stay playing in their league. 
@@ -34,7 +34,7 @@ Players up to fifth stay playing in their league.
 A new championship starts for each variant once a year. 
 There is a start date for each variant. 
 Exceptions are championships where more than 30 players are entered. 
-These start immediately after the end of the previous championship.
+These start on the first day of the month following the end of the previous championship.
 
 ### Calendar
 
