@@ -9,10 +9,10 @@ description: >
 
 ### Introduction
 A two player game using poker hands. 
-Instead of betting players have to decide how to deploy their 52 cards to win the best of 11 poker hands.
+Instead of betting players have to decide how to deploy their 54 cards to win the best of 11 poker hands.
 
 ### The Deck(s)
-Two standard international 52-card decks (one for each player).  
+Two standard international 54-card (52 cards and 2 jokers) decks (one for each player).  
 Cards have their usual ranking as in Poker.
 
 ### Object of the Game
@@ -49,11 +49,11 @@ If they win an equal number of hands, the game is a draw.
 
 ## Variants
 
-On LittleGolem, the basic variant is played without wild cards. Other possible variants are:
-- play with 54 cards (jokers)
+On LittleGolem, the basic variant is played with 2 wild cards (jokers). Other possible variants are:
+- play without wild cards (52 card deck)
 - deuces are also wild cards
-- play with 65 cards (5 suits) for 13 games
-- mini version where everyone has half a deck of cards (26) for 5 games
+- play with 65 cards (5 suits) for 13 hands instead of 11
+- mini version where everyone has half a deck of cards (26) for 5 games or 27 cards (one joker in deck).
 
 ## Links
 
