@@ -33,8 +33,6 @@ Players up to fifth stay playing in their league.
 
 A new championship starts for each variant once a year. 
 There is a start date for each variant. 
-Exceptions are championships where more than 30 players are entered. 
-These start on the first day of the month following the end of the previous championship.
 
 ### Calendar
 
@@ -122,6 +120,7 @@ This is the calendar of when each variant starts if the number of registered pla
      Havannah - Size 6
 
 #### August 1st
+     Chess - Crazyhouse
      Draughts - International Draughts
      Go - Hahn Pointing System
      Chess - Chess
@@ -164,8 +163,9 @@ This is the calendar of when each variant starts if the number of registered pla
      Havannah - Size 9
      Tumbleweed - Size 4
 
-#### November 1st
+#### November 1st     
      XiangQi - XiangQi
+     Chess - Grand Chess
      Shogi - Tori Shogi
      WYPS - French 8
      WYPS - Spanish 8
@@ -193,6 +193,7 @@ This is the calendar of when each variant starts if the number of registered pla
      Dots and Boxes - Size 5x5
      Catchup - Size 5
      Tumbleweed - Size 6
+     Oceans 11 - Deck 54
 
 ## Monthly Cup
 
