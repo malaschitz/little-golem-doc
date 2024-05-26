@@ -6,3 +6,4 @@ tech-doc-hugo
 
 deploy.sh
 .DS_Store
+.hugo_build.lock

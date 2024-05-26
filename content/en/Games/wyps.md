@@ -282,3 +282,12 @@ WYPS can be played on any board sizes and in any language.
 | 13 | 9 | 91 | AAAAAAABBC CDDDEEEEEE FGHHIIIIIJ JKKKKLLLLM MMMNNNNNOO OOOOPPPRRR RSSSTTTUUU VVVYZZÁÁÉÍ ÍÚÚÝČČĽŠŠŤ Ž |
 | 14 | 9 | 105 | AAAAAAAABB CCDDDEEEEE EEEFGHHIII IIIJJKKKKL LLLLMMMMNN NNNNOOOOOO OOPPPRRRRR SSSTTTTUUU UVVVVYYZZÁ ÁÁÉÍÍÚÚÝČČ ĽŠŠŤŽ |
 
+## WYPS for 4 players
+
+The 4-player variant is a lot of fun. Players play together in pairs. Each of the four players has as many stones as in a two-player game. This means that, for example, on a board of size 8, each player has 5 stones. The start of the game is similar to a 2-player game. Players randomly select 4 sets of stones and players sequentially choose their set of stones in a counterclockwise order. The player who picked the stones last starts the game.
+
+In a 4-player game, the Atari rule does not apply. This means that the connection does not have to be broken immediately. If one of the players no longer has stones, the game continues and that player passes their turn.
+
+Important rule: players can talk out loud during the game and can analyze their moves together !
+
+The game is very challenging because the end phase of the game when there are no more stones in the bag occurs very early. 

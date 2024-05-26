@@ -11,7 +11,7 @@ After each turn, 36 hours are added to his time bank, but it is not possible to 
 If a player exceeds his limit, one day of **vacation** is used. 
 If the player does not have more vacation, the game is lost.
 
-## Vacation.
+## Vacation
 
 The player has 5 days of vacation for a year. 
 If the player exceeds the time limit in the game, the vacation is used up.
