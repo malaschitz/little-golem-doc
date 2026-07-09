@@ -9,15 +9,34 @@ description: >
 ![](https://upload.wikimedia.org/wikipedia/commons/e/e5/Courbet_-_The_Draughts_Players%2C_1844.jpg)
 [Gustave Courbet](https://en.wikipedia.org/wiki/Gustave_Courbet) The Draughts Players 1844
 
+![Draughts in the Little Golem app](/games/draughts-app.png)
+
 ## Variants
 
 On Little Golem is played several variants.
 
 ### English Draughts 
 
-English draughts (British English) or checkers (American English; see spelling differences), also called American checkers or straight checkers, is a form of the strategy board game draughts. It is played on an 8×8 chequered board with 12 pieces per side. The pieces move and capture diagonally forward, until they reach the opposite end of the board, when they are crowned and can thereafter move and capture both backward and forward.
+English draughts, also called checkers or straight checkers, is played on an
+8x8 board with 12 men per side. Only the dark squares are used. Black moves
+first on Little Golem.
 
-As in all forms of draughts, English draughts is played by two opponents, alternating turns on opposite sides of the board. The pieces are traditionally black, red, or white. Enemy pieces are captured by jumping over them.
+Men move one square diagonally forward to an empty square. Men capture by
+jumping diagonally forward over an adjacent enemy piece to the empty square
+beyond it. Kings move one square diagonally in any direction and capture one
+square in any diagonal direction.
+
+Capturing is compulsory. If several captures are available, Little Golem allows
+any capturing line in English draughts; the maximum-capture rule is not applied
+to this variant. Multiple jumps are made in one move when the same piece can
+continue capturing.
+
+A man that reaches the far row is promoted to a king. A player loses when they
+have no legal move left.
+
+For English Draughts Championship tournaments on Little Golem, games use random
+three-move openings from the official tournament deck. Other tournaments and
+ordinary games use GAYP, "go as you please".
 
 #### Links
 
@@ -27,7 +46,20 @@ As in all forms of draughts, English draughts is played by two opponents, altern
 
 ### International draughts
 
-International draughts (also called Polish draughts or international checkers) is a strategy board game for two players, one of the variants of draughts. The gameboard comprises 10×10 squares in alternating dark and light colours, of which only the 50 dark squares are used. Each player has 20 pieces, light for one player and dark for the other, at opposite sides of the board. In conventional diagrams, the board is displayed with the light pieces at the bottom; in this orientation, the lower-left corner square must be dark.
+International draughts is played on a 10x10 board with 20 men per side. Only
+the dark squares are used. White moves first on Little Golem.
+
+Men move one square diagonally forward to an empty square. Men capture
+diagonally forward or backward by jumping over one adjacent enemy piece to the
+empty square beyond it.
+
+Kings are flying kings: they move any distance diagonally through empty squares.
+They capture by jumping over one enemy piece on a diagonal and landing on any
+empty square beyond it on the same diagonal.
+
+Capturing is compulsory. When more than one capture is possible, Little Golem
+requires a line that captures the maximum number of pieces. A man promotes when
+it reaches the far row. A player loses when they have no legal move left.
 
 #### Links
 
@@ -43,23 +75,24 @@ Dameo is played on an 8×8 checkerboard with 18 pieces per player. Each player�
 
 ![dameo](https://upload.wikimedia.org/wikipedia/commons/a/a1/Dameo_init_config.PNG)
 
-- The player with the lighter pieces moves first. Then turns alternate.
-- The pieces, called men, can only move forward, either straight ahead or diagonally.
-- In addition, men can jump over one or more other subsequent men of the same color in a straight line forward or diagonally, provided that the square ahead of the line is free.
-- When a man reaches the last row of the opposite side of the board, it is crowned, or promoted, to a king. The king can move in 8 directions to any available number of cells, like a queen in chess. King promotion is powerful and greatly benefits the player who accomplishes it.[4][5]
-- Capturing involves jumping over enemy pieces and removing them from the board. All captures in Dameo are orthogonal only. A man may capture forwards, backwards and sideways by a short leap to an unoccupied space one square directly beyond the captured piece. If a jump is possible it must be done, even if doing so incurs a disadvantage.
-- A king may capture by a long leap to any unoccupied square opposite the captured piece, so long as there is no other piece obstructing the path of the king.
-- Multiple successive captures in a single turn must be made if, after each jump, there is an unoccupied square immediately beyond the enemy piece. One must play with the piece that can make the maximum number of captures.
-- A jumped piece is removed from the board at the end of the turn. For a multi-jump move, captured pieces are not removed during the move; they are removed only after the entire multi-jump move is complete.
-- The same piece may not be jumped more than once.
-A player with no valid move remaining loses. This occurs if the player has no pieces left, or if all the player's pieces are obstructed from moving by opponent pieces.
-- A game is a draw if neither player can win the game.
-- A game is considered a draw when the same position repeats three times by the same player (not necessarily consecutively).[6]
-- Dameo has very few draws. Dameo's draw margin at high level play is estimated to be around 21%
+- White moves first on Little Golem.
+- Men move forward, either straight ahead or diagonally forward.
+- A line of adjacent friendly men may make a linear move: the rear man moves
+  along the line to the first empty square beyond the friendly line.
+- Captures are orthogonal only. A man captures one square forward, backward, or
+  sideways by jumping an adjacent enemy piece.
+- Kings move any distance in eight directions. Kings capture orthogonally by a
+  long jump over one enemy piece to an empty square beyond it.
+- Capturing is compulsory. Little Golem allows any legal capturing line in
+  Dameo; it does not filter to maximum captures in the same way as
+  International draughts.
+- Captured pieces are removed at the end of the move. The same enemy piece may
+  not be captured twice in one move.
+- A man promotes when it reaches the far row. A player loses when they have no
+  legal move left.
 
 #### Links
 
 - [Wikipedia](https://en.wikipedia.org/wiki/International_draughts)
 - [Board Game Geek](https://boardgamegeek.com/boardgame/24698/dameo)
 - [Dameo on Mindsports](https://www.mindsports.nl/index.php/arena/dameo)
-

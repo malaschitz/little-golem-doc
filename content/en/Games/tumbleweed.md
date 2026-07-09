@@ -9,17 +9,29 @@ description: >
 **Tumbleweed** is a two-player game. 
 It is played on a hexhex board and a sufficient supply of stacked checkers.
 
+![Tumbleweed in the Little Golem app](/games/tumbleweed-app.png)
+
 A stack can "see" a hex, when they are connected by a straight line, with no stacks in between. 
 The players take turns placing stacks of their tokens on hexes that are seen by at least one friendly stack. 
 The height of every newly-placed stack equals the number of your stacks that see the new stack. 
 Replacing an existing stack with a new stack is possible, as long as the new stack is taller than the previous one. 
 This works with opponent stacks (to capture), or your own stacks (to reinforce).
 
-Before the game, the host sets up the board and the guest decides which side he wants to play. 
-Setup consists of one stack of two neutral tokens in the central hex, and a single starting token for each player in hexes of the host's choosing.
+Before the game, the host sets up the board and the guest decides which side he wants to play.
+On Little Golem the board starts with one neutral stack of height 2 in the
+center. The first move places one black stack and one white stack on two empty
+hexes. The second player may then either accept the colors or play `swap`, which
+swaps the two starting colors.
 
-The game ends when no more moves can be made by either player, or after two successive passes. 
-The player who occupies over half the board wins.
+After setup, a normal move places or replaces one stack for the player to move.
+The new stack height is the number of friendly stacks visible from that hex in
+the six hex directions. A move with zero friendly visibility is illegal. A stack
+may replace an existing stack only if the new stack is strictly taller.
+
+The game ends after two successive passes. Little Golem scores occupied hexes
+plus empty hexes controlled by influence. An empty hex is controlled by the
+player with more visible stacks from that hex. The higher total wins; equal
+totals are a draw.
 
 ## Links
 
