@@ -82,45 +82,45 @@ Promotion zones on Little Golem:
 
 These pieces are used in Shogi, Mini Shogi, Shogi 5x6, and Shogi 5x6+.
 
-| Piece | Symbol | Movement | Promoted movement |
-| --- | --- | --- | --- |
-| King | K | One step in any direction. | Does not promote. |
-| Rook | R | Any number of squares orthogonally. | Dragon king: rook movement plus one step diagonally. |
-| Bishop | B | Any number of squares diagonally. | Dragon horse: bishop movement plus one step orthogonally. |
-| Gold general | G | One step forward, sideways, straight backward, or diagonally forward. | Does not promote. |
-| Silver general | S | One step forward, diagonally forward, or diagonally backward. | Moves as a gold general. |
-| Knight | N | Jumps two squares forward and one square sideways. | Moves as a gold general. |
-| Lance | L | Any number of squares straight forward. | Moves as a gold general. |
-| Pawn | P | One step straight forward. | Moves as a gold general. |
+| Piece | Symbol | Kanji | Movement | Promoted kanji | Promoted movement |
+| --- | --- | --- | --- | --- | --- |
+| King | K | 王 | One step in any direction. | - | Does not promote. |
+| Rook | R | 飛 | Any number of squares orthogonally. | 龍 | Dragon king: rook movement plus one step diagonally. |
+| Bishop | B | 角 | Any number of squares diagonally. | 馬 | Dragon horse: bishop movement plus one step orthogonally. |
+| Gold general | G | 金 | One step forward, sideways, straight backward, or diagonally forward. | - | Does not promote. |
+| Silver general | S | 銀 | One step forward, diagonally forward, or diagonally backward. | 全 | Moves as a gold general. |
+| Knight | N | 桂 | Jumps two squares forward and one square sideways. | 圭 | Moves as a gold general. |
+| Lance | L | 香 | Any number of squares straight forward. | 杏 | Moves as a gold general. |
+| Pawn | P | 歩 | One step straight forward. | と | Moves as a gold general. |
 
 ## Shogi 3x4 pieces
 
 Shogi 3x4 uses animal pieces. The Little Golem move notation also uses the
 small symbols shown below.
 
-| Piece | Symbol | Movement | Promoted movement |
-| --- | --- | --- | --- |
-| Lion | K | One step in any direction. | Does not promote. |
-| Giraffe | r | One step orthogonally. | Does not promote. |
-| Elephant | b | One step diagonally. | Does not promote. |
-| Chick | P | One step straight forward. | Hen: moves as a gold general. |
+| Piece | Symbol | App label | Movement | Promoted label | Promoted movement |
+| --- | --- | --- | --- | --- | --- |
+| Lion | K | 🦁 | One step in any direction. | - | Does not promote. |
+| Giraffe | r | 🦒 | One step orthogonally. | - | Does not promote. |
+| Elephant | b | 🐘 | One step diagonally. | - | Does not promote. |
+| Chick | P | 🐥 | One step straight forward. | 🐔 | Hen: moves as a gold general. |
 
 Shogi 3x4 also has a campmate rule: a lion wins by legally reaching the
 opponent's back rank.
 
 ## Tori Shogi pieces
 
-| Piece | Symbol | Movement | Promoted movement |
-| --- | --- | --- | --- |
-| Phoenix | K | One step in any direction. | Does not promote. |
-| Left quail | Ql | Slides straight forward and on one backward diagonal; steps one square on the other backward diagonal. | Does not promote. |
-| Right quail | Qr | Mirror image of the left quail. | Does not promote. |
-| Falcon | Fa | One step forward, sideways, or diagonally. It has no straight-back step. | Eagle. |
-| Eagle | +Fa | Falcon movement plus extra long moves: slides straight backward, and can continue along a forward diagonal when the adjacent diagonal square is empty. It can also move two squares backward diagonally when the adjacent diagonal square is empty. | Already promoted. |
-| Crane | Cr | One step straight or diagonally forward, and one step straight or diagonally backward. It has no sideways move. | Does not promote. |
-| Swallow | Sw | One step straight forward. | Goose. |
-| Goose | +Sw | Jumps two squares diagonally forward or two squares straight backward. | Already promoted. |
-| Pheasant | Pt | Jumps two squares straight forward, or steps one square diagonally backward. | Does not promote. |
+| Piece | Symbol | Kanji | Movement | Promoted kanji | Promoted movement |
+| --- | --- | --- | --- | --- | --- |
+| Phoenix | K | 鵬 | One step in any direction. | - | Does not promote. |
+| Left quail | Ql | 鶉 | Slides straight forward and on one backward diagonal; steps one square on the other backward diagonal. | - | Does not promote. |
+| Right quail | Qr | 鶉 | Mirror image of the left quail. | - | Does not promote. |
+| Falcon | Fa | 鷹 | One step forward, sideways, or diagonally. It has no straight-back step. | 鵰 | Eagle. |
+| Eagle | +Fa | 鵰 | Falcon movement plus extra long moves: slides straight backward, and can continue along a forward diagonal when the adjacent diagonal square is empty. It can also move two squares backward diagonally when the adjacent diagonal square is empty. | - | Already promoted. |
+| Crane | Cr | 鶴 | One step straight or diagonally forward, and one step straight or diagonally backward. It has no sideways move. | - | Does not promote. |
+| Swallow | Sw | 燕 | One step straight forward. | 鴈 | Goose. |
+| Goose | +Sw | 鴈 | Jumps two squares diagonally forward or two squares straight backward. | - | Already promoted. |
+| Pheasant | Pt | 雉 | Jumps two squares straight forward, or steps one square diagonally backward. | - | Does not promote. |
 
 ## Links
 
