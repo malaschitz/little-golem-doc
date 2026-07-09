@@ -33,8 +33,8 @@ On Little Golem is Hex played on four board sizes: 11, 13, 15 and 19.
 
 ## Links
 
-- [Online Puzzles](http://www.mseymour.ca/hex_puzzle/hexpuzzle.html) - great site with interactive puzzles by Matthew Seymour and with [A Strategy Guide](http://www.mseymour.ca/hex_book/hexstrat.html)
-- [Hex Strategy: Making the Right Connections](https://www.amazon.com/Hex-Strategy-Making-Right-Connections/dp/1568811179) - book written by [Cameron Browne](http://cambolbro.com/)
+- [Online Puzzles](https://www.mseymour.ca/hex_puzzle/hexpuzzle.html) - great site with interactive puzzles by Matthew Seymour and with [A Strategy Guide](https://www.mseymour.ca/hex_book/hexstrat.html)
+- [Hex Strategy: Making the Right Connections](https://www.amazon.com/Hex-Strategy-Making-Right-Connections/dp/1568811179) - book written by [Cameron Browne](https://cambolbro.com/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Hex_(board_game)) - history of the game, rules, variants.
 - [Hex on BGG](https://boardgamegeek.com/boardgame/4112/hex)
 - [Hex](https://piethein.com/shop/183-games-amp-puzzles/2192-con-tac-tix-smoked-oak/) - hex game directly from Piet Hein's site.

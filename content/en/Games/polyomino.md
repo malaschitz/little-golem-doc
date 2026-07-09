@@ -6,7 +6,7 @@ description: >
  Game inspired with game Blokus Duo 2005
 ---
 
-Polyomino is a simple board game with [polyominoes](http://en.wikipedia.org/wiki/Polyomino). The game can be played as a paper-and-pencil game.
+Polyomino is a simple board game with [polyominoes](https://en.wikipedia.org/wiki/Polyomino). The game can be played as a paper-and-pencil game.
 
 ![](/games/polyomino01.png)
 
@@ -28,6 +28,5 @@ Small. Game on the board 12x12. Each player has two sets from mini variant.
 Penta. Game on the board 14x14. Each player has 1 monomino, 1 domino, 2 trominos, 5 tetrominos and 12 pentominoes.
 
 Hexa. Game on the board 20x20. The game is played only with one common set of pieces: 1 monomino, 1 domino, 2 trominos, 5 tetrominos, 12 pentominos and 35 hexominos.
-
 
 

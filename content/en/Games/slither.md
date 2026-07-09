@@ -26,7 +26,7 @@ Any square board as well as a supply of stones in two colors with enough stones 
 
 The objective of Slither is to create an unbroken orthogonal chain of pieces connecting your designated board edges. Black aims to connect the top and bottom, and White aims to connect the left and right-hand sides.
 
-![fig 1. Example of a game where White has won](Slither_rules_page1.jpg)
+![fig 1. Example of a game where White has won](slither-win.svg)
 
 ### Gameplay
 
@@ -34,7 +34,7 @@ The game is played on the intersections of the board. Starting with Black, on a 
 
 A player may also optionally move a stone of their color which is already on the board to an orthogonally or diagonally adjacent intersection. These actions may be performed in any order, but at the conclusion of the turn, any two diagonally adjacent stones of the player's color must be orthogonally adjacent to a like-colored common stone.
 
-![fig 2. Illegal and legal positions for Black's move](Slither_rules_page2.jpg)
+![fig 2. Illegal and legal positions for Black's move](slither-legal-shapes.svg)
 
 #### Forced Passing
 
@@ -51,7 +51,7 @@ Seasoned Slither players or even novices may want to try an advanced form of Sli
 **Movement:**  
 In Advanced Slither, stones must always be moved **prior** to placement. A stone may only move if, prior to its movement, it is in a group (orthogonally contiguous set) of stones consisting of both players' colors.
 
-![fig 3. Examples of mobile and immobile stones on Black's turn](Slither_rules_page3.jpg)
+![fig 3. Examples of mobile and immobile stones on Black's turn](slither-mobile-stones.svg)
 
 **Pie Rule:**  
 Due to its shown lack of efficacy in classic Slither, the *Pie Rule* appears here. This rule reduces the advantage of Black having an extra stone on the board. On their first turn, the White player may choose to play as Black instead of making their own move using the white pieces.

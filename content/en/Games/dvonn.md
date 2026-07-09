@@ -61,4 +61,4 @@ score wins. Equal scores are a draw.
 
 - [Wikipedia](https://en.wikipedia.org/wiki/DVONN)
 - [Board Game Geek](https://boardgamegeek.com/boardgame/2346/dvonn)
-- [Dvonn on gipf.com](http://www.gipf.com/dvonn/)
+- [Dvonn on gipf.com](https://www.gipf.com/dvonn/)

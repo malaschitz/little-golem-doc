@@ -7,16 +7,16 @@ description: >
   Tournament description
 ---
 
-On *LittleGolem* are played tournaments for every game:
+Little Golem runs tournaments for every game:
 
 * Championship
 * Mini Cup
 * Ladder
 * User tournaments
 
-There exists Waitting Room and is possible to invite to play some player.
+Players can also use the Waiting Room or invite another player directly.
 
-[Time control](http://localhost:1313/time/) is used in all tournaments.
+[Time control](/time/) is used in all tournaments.
 
 ## Championship
 
@@ -32,8 +32,7 @@ The winner in the first league is the champion.
 The **top two** players in each group advance to the next higher league. 
 Players up to **fifth** stay playing in their league. 
 
-A new championship starts for each variant twice a year. [Calendar.](calendar) 
-There is a start date for each variant. 
+A new championship starts for each variant twice a year. The [calendar](calendar/) lists the start dates for each variant.
 
 
 ## Mini Cup
@@ -68,16 +67,16 @@ Example:
 |    9     |          3           |      6-8      |
 |    10    |          4           |      6-9      |
 
-If the challenger wins the game, he overtakes his opponent. 
-Players challenge a maximum of 1 player and defend against 2 players.
-A new game with the same opponent is possible only after 14 days after the common game.
+If the challenger wins the game, the challenger overtakes the opponent.
+Each player can challenge at most 1 player and defend against at most 2 players at the same time.
+A new ladder game with the same opponent is possible only 14 days after their previous game.
 The game starts immediately when the player registers for the tournament.
-The games are started automatically. 
+Games are started automatically.
 Players always challenge the player in the highest available position.
 
 ## Waiting Room
 
-Simple waiting room for playing rated games.
+The Waiting Room is used for rated casual games. A game starts when another player accepts the open request.
 
 ## User tournaments
 
@@ -85,4 +84,4 @@ Players can create their own round robin tournaments.
 
 ## Invite players
 
-The player can invite another player to a game.
+A player can invite another player to a game directly.

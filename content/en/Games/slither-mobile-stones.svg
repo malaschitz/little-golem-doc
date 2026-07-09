@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 360" role="img" aria-labelledby="title desc">
+  <title id="title">Advanced Slither mobile stones</title>
+  <desc id="desc">A black stone in a mixed-color orthogonal group is mobile; a black stone in a single-color group is not mobile.</desc>
+  <style>
+    .board { fill: #f7f2df; stroke: #2b2f36; stroke-width: 3; }
+    .grid { stroke: #8a8170; stroke-width: 1.5; }
+    .white { fill: #f8fafc; stroke: #2b2f36; stroke-width: 3; }
+    .black { fill: #20242a; stroke: #2b2f36; stroke-width: 3; }
+    .mobile { fill: none; stroke: #16a34a; stroke-width: 6; }
+    .immobile { fill: none; stroke: #dc2626; stroke-width: 6; }
+    .label { font: 18px sans-serif; fill: #20242a; }
+    .small { font: 15px sans-serif; fill: #475569; }
+  </style>
+  <rect class="board" x="70" y="35" width="480" height="250" rx="6"/>
+  <g>
+    <line class="grid" x1="110" y1="75" x2="510" y2="75"/>
+    <line class="grid" x1="110" y1="125" x2="510" y2="125"/>
+    <line class="grid" x1="110" y1="175" x2="510" y2="175"/>
+    <line class="grid" x1="110" y1="225" x2="510" y2="225"/>
+    <line class="grid" x1="110" y1="75" x2="110" y2="225"/>
+    <line class="grid" x1="160" y1="75" x2="160" y2="225"/>
+    <line class="grid" x1="210" y1="75" x2="210" y2="225"/>
+    <line class="grid" x1="260" y1="75" x2="260" y2="225"/>
+    <line class="grid" x1="310" y1="75" x2="310" y2="225"/>
+    <line class="grid" x1="360" y1="75" x2="360" y2="225"/>
+    <line class="grid" x1="410" y1="75" x2="410" y2="225"/>
+    <line class="grid" x1="460" y1="75" x2="460" y2="225"/>
+    <line class="grid" x1="510" y1="75" x2="510" y2="225"/>
+  </g>
+  <circle class="black" cx="160" cy="125" r="17"/>
+  <circle class="white" cx="210" cy="125" r="17"/>
+  <circle class="black" cx="210" cy="175" r="17"/>
+  <circle class="mobile" cx="160" cy="125" r="25"/>
+  <circle class="mobile" cx="210" cy="175" r="25"/>
+  <circle class="black" cx="410" cy="125" r="17"/>
+  <circle class="black" cx="460" cy="125" r="17"/>
+  <circle class="immobile" cx="410" cy="125" r="25"/>
+  <circle class="immobile" cx="460" cy="125" r="25"/>
+  <text class="label" x="105" y="315">Mobile</text>
+  <text class="small" x="105" y="338">Group contains both colors.</text>
+  <text class="label" x="385" y="315">Immobile</text>
+  <text class="small" x="385" y="338">Group contains only black stones.</text>
+</svg>

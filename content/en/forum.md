@@ -7,5 +7,7 @@ description: >
 ---
 
 The discussion forum is divided into a general section and a forum for individual games.
-It is possible to use basic **markdown** syntax.
-Description of markdown syntax is available on [MarkDown guide](https://www.markdownguide.org/basic-syntax/)
+
+Game-specific forums are useful for rules questions, tournament discussion and variant feedback. The general forum is used for site-wide topics.
+
+Posts can use basic **Markdown** syntax. A short syntax reference is available in the [Markdown Guide](https://www.markdownguide.org/basic-syntax/).

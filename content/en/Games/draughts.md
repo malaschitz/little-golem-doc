@@ -41,7 +41,7 @@ ordinary games use GAYP, "go as you please".
 #### Links
 
 - [Wikipedia](https://en.wikipedia.org/wiki/English_draughts)
-- [WCDF](http://www.wcdf.net/) - World Checkers and Draughts federation
+- [WCDF](https://wcdf.net/) - World Checkers and Draughts federation
 - [Board Game Geek](https://boardgamegeek.com/boardgame/2083/checkers)
 
 ### International draughts
