@@ -14,7 +14,7 @@ Little Golem runs tournaments for every game:
 * Ladder
 * User tournaments
 
-Players can also use the Waiting Room or invite another player directly.
+Players can also use the Waiting Room for rated casual games.
 
 [Time control](/time/) is used in all tournaments.
 
@@ -69,7 +69,7 @@ Example:
 
 If the challenger wins the game, the challenger overtakes the opponent.
 Each player can challenge at most 1 player and defend against at most 2 players at the same time.
-A new ladder game with the same opponent is possible only 14 days after their previous game.
+A new ladder game with the same opponent is possible only 21 days after their previous game.
 The game starts immediately when the player registers for the tournament.
 Games are started automatically.
 Players always challenge the player in the highest available position.
@@ -81,7 +81,3 @@ The Waiting Room is used for rated casual games. A game starts when another play
 ## User tournaments
 
 Players can create their own round robin tournaments.
-
-## Invite players
-
-A player can invite another player to a game directly.

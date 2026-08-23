@@ -18,7 +18,7 @@ The profile page can contain optional information such as real name, public emai
 
 ### Game and community data
 
-Little Golem stores game records, tournament results, ratings, ranks, forum posts, invitations, messages and other actions needed to operate the site.
+Little Golem stores game records, tournament results, ratings, ranks, forum posts, messages, historical invitation records and other actions needed to operate the site.
 
 Players should not send highly sensitive information through game chat, private messages or forum posts. These features are intended for game and site communication.
 
@@ -36,8 +36,6 @@ Little Golem uses cookies and sessions to keep users logged in and to operate th
 
 Some pages may link to external websites. When a player follows an external link, the privacy policy of that external site applies.
 
-Little Golem can also use external login or media services when a player chooses those features, for example Facebook login or externally hosted images.
-
 ### Requests
 
-For privacy-related requests, contact the Little Golem administrator through the contact options available on Little Golem or through your account.
+For privacy-related requests, use the [contact page](/contact/).

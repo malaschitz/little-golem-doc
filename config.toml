@@ -77,7 +77,7 @@ section = [ "HTML", "RSS", "print" ]
 
 [params]
 copyright = "LittleGolem"
-privacy_policy = "https://docs.littlegolem.net/privacy"
+privacy_policy = "/privacy/"
 
 # First one is picked as the Twitter card image if not set on page.
 # images = ["images/project-illustration.png"]
@@ -138,5 +138,4 @@ no = 'Sorry to hear that. Please <a href="https://github.com/malaschitz/little-g
 	url = "https://github.com/malaschitz/little-golem-doc"
 	icon = "fab fa-github"
         desc = "Development takes place here!"
-
 
