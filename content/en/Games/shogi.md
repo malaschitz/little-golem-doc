@@ -47,13 +47,17 @@ restrictions:
 
 ## Promotion
 
-A piece may promote when a move starts or ends in the promotion zone.
-Promotion is optional unless the piece would otherwise have no legal move on a
-later turn.
+A piece may promote when a move starts or ends in the promotion zone. In the
+standard-piece variants, promotion is optional unless the piece would otherwise
+have no legal move on a later turn.
+
+Tori Shogi is different: a swallow or falcon must promote whenever its normal
+move starts or ends in the two-rank promotion zone. A piece dropped into the
+zone does not promote until it makes a later normal move there.
 
 Promotion is forced for:
 
-- pawn, lance, and Tori Shogi swallow on the last rank
+- pawn and lance on the last rank
 - knight on either of the last two ranks
 
 Promotion zones on Little Golem:
