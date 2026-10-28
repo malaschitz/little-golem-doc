@@ -1,7 +1,7 @@
 ---
 title: "Chess"
 date: 2021-07-12
-weight: 40
+weight: 50
 description: >
   Classic board game chess
 ---

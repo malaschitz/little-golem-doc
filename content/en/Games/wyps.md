@@ -1,7 +1,7 @@
 ---
 title: "WYPS"
 date: 2021-07-26
-weight: 290
+weight: 360
 description: >
   WYPS invented by Richard and Alena Malaschitz in 2002. Final version of rules is from 2017.
 ---

@@ -1,7 +1,7 @@
 ---
 title: "XiangQi"
 date: 2026-07-08
-weight: 300
+weight: 370
 description: >
   Chinese chess.
 ---

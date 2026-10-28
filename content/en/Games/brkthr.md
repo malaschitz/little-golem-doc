@@ -1,7 +1,7 @@
 ---
 title: "Breakthrough"
 date: 2021-07-26
-weight: 20
+weight: 30
 description: >
   Breakthrough is an abstract strategy board game invented by Dan Troyka in 2000.
 ---

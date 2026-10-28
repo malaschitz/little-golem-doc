@@ -1,7 +1,7 @@
 ---
 title: "Gomoku"
 date: 2021-07-26
-weight: 120
+weight: 160
 description: >
   Classic game from ancient China
 ---

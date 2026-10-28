@@ -1,7 +1,7 @@
 ---
 title: "Catchup"
 date: 2021-07-26
-weight: 30
+weight: 40
 description: >
   Invented by Nick Bentley in 2010
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Twixt"
 date: 2026-07-08
-weight: 270
+weight: 340
 description: >
   A connection game by Alex Randolph.
 ---

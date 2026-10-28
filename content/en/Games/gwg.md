@@ -1,7 +1,7 @@
 ---
 title: "Golem word game"
 date: 2021-07-26
-weight: 140
+weight: 150
 description: >
   The game was created especially for Little Golem.
 ---

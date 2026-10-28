@@ -1,7 +1,7 @@
 ---
 title: "Tumbleweed"
 date: 2022-08-12
-weight: 240
+weight: 330
 description: >
   Modern game invented by Mike Zapawa during COVID
 ---

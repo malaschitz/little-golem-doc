@@ -1,7 +1,7 @@
 ---
 title: "Reversi"
 date: 2026-07-08
-weight: 230
+weight: 280
 description: >
   A disk-flipping strategy game played on several board sizes.
 ---

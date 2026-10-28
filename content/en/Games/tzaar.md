@@ -1,7 +1,7 @@
 ---
 title: "Tzaar"
 date: 2026-07-08
-weight: 280
+weight: 350
 description: >
   A GIPF Project game about capturing and strengthening stacks.
 ---

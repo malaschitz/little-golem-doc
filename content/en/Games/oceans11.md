@@ -1,7 +1,7 @@
 ---
 title: "Oceans 11"
 date: 2022-08-28
-weight: 60
+weight: 230
 description: >
   A two player game using poker hands invented by Eliott Adkins.
 ---

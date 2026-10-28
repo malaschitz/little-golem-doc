@@ -4,6 +4,7 @@ date: 2026-10-26
 lastmod: 2026-10-28
 draft: false
 description: "Meridians 114: paths, group survival and colour choice."
+weight: 210
 ---
 
 Meridians by Kanare Kato is an elimination game. Little Golem's first format

@@ -1,7 +1,7 @@
 ---
 title: "Polyomino"
 date: 2021-07-26
-weight: 210
+weight: 250
 description: >
  Game inspired with game Blokus Duo 2005
 ---

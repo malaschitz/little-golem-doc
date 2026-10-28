@@ -1,7 +1,7 @@
 ---
 title: "Fendo"
 date: 2023-04-30
-weight: 105
+weight: 120
 description: >
   A modern abstract board game by Dieter Stein.
 ---

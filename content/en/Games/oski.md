@@ -1,7 +1,7 @@
 ---
 title: "Oski"
 date: 2021-07-26
-weight: 200
+weight: 240
 description: >
  Invented by Richard and Oskar Malaschitz in 2010
 ---

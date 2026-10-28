@@ -1,7 +1,7 @@
 ---
 title: "Conhex"
 date: 2021-07-26
-weight: 50
+weight: 60
 description: >
   Game invented by Michail Antonow in 2006
 ---

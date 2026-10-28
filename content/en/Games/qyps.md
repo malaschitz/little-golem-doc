@@ -1,7 +1,7 @@
 ---
 title: "QYPS"
 date: 2021-07-26
-weight: 220
+weight: 270
 description: >
   Game invented by Richard Malaschitz in 2016
 ---

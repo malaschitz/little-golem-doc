@@ -1,7 +1,7 @@
 ---
 title: "Lyngk"
 date: 2026-07-08
-weight: 180
+weight: 200
 description: >
   A GIPF Project stacking game with color claims.
 ---

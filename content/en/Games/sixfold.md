@@ -1,7 +1,7 @@
 ---
 title: "Sixfold"
 date: 2026-03-20
-weight: 260
+weight: 300
 description: >
   A two-player abstract game on 36 active cells with six colors, six shapes, and randomly selected board layouts.
 ---

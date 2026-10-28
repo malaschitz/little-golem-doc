@@ -1,7 +1,7 @@
 ---
 title: "Havannah"
 date: 2026-07-08
-weight: 150
+weight: 170
 description: >
   A connection game by Christian Freeling.
 ---

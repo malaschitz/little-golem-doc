@@ -1,7 +1,7 @@
 ---
 title: "Slither"
 date: 2021-07-26
-weight: 250
+weight: 310
 description: >
   A dynamic two-player connection game by Corey L. Clark that also features an advanced variant.
 ---

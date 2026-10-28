@@ -1,7 +1,7 @@
 ---
 title: "Connect6"
 date: 2021-07-26
-weight: 60
+weight: 70
 description: >
   Connect6 introduced in 2003 by Professor I-Chen Wu
 ---

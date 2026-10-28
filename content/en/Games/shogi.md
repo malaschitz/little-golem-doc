@@ -1,7 +1,7 @@
 ---
 title: "Shogi"
 date: 2026-07-08
-weight: 240
+weight: 290
 description: >
   Japanese chess and several smaller Shogi variants.
 ---

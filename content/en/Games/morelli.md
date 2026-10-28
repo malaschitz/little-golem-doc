@@ -1,7 +1,7 @@
 ---
 title: "Morelli"
 date: 2026-07-08
-weight: 190
+weight: 220
 description: >
   A center-race abstract strategy game.
 ---

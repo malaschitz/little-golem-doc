@@ -1,7 +1,7 @@
 ---
 title: "Dvonn"
 date: 2026-07-08
-weight: 90
+weight: 100
 description: >
   Invented by Kris Burm in 2001
 ---

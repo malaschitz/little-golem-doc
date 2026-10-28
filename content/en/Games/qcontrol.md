@@ -4,6 +4,7 @@ date: 2026-10-26
 lastmod: 2026-10-28
 draft: false
 description: "Standard Quantum Control: placement, captures and seven-area scoring."
+weight: 260
 ---
 
 Quantum Control by Néstor Romeral Andrés and Kanare Kato has49playable spaces

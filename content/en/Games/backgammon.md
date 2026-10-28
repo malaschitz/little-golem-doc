@@ -2,7 +2,7 @@
 title: "Backgammon"
 date: 2026-10-19
 lastmod: 2026-10-20
-weight: 100
+weight: 20
 description: >
   Rules, controls, computer opponents and game analysis.
 ---

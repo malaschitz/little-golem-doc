@@ -1,7 +1,7 @@
 ---
 title: "Dots and boxes"
 date: 2021-07-26
-weight: 70
+weight: 80
 description: >
    Invented in 1889 by the French mathematician François Edouard Anatole Lucas
 ---

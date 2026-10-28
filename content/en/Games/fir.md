@@ -1,7 +1,7 @@
 ---
 title: "Four in a row"
 date: 2021-07-26
-weight: 110
+weight: 130
 description: >
   Invented in 1974
 ---
