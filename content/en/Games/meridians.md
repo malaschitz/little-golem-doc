@@ -1,7 +1,8 @@
 ---
 title: "Meridians"
 date: 2026-10-26
-draft: true
+lastmod: 2026-10-28
+draft: false
 description: "Meridians 114: paths, group survival and colour choice."
 ---
 
@@ -32,3 +33,46 @@ and human strength remain under evaluation; levels are not human ratings.
 
 [Publisher rules](https://cdn.shopify.com/s/files/1/0578/3502/8664/files/Meridians_EN.pdf?v=1693585479).
 Permission for the Little Golem implementation was granted by Kanare.
+
+## Opening step by step
+
+1. The first participant selects White's point and then Black's point. Send
+   these two placements together as one opening move.
+2. The other participant chooses **Keep colours (Black)** or **Swap colours
+   (White)**, then sends that choice. Keeping leaves White with the first
+   participant. Swapping gives White to the chooser without moving the stones.
+3. **White moves next**, placing its second stone; Black then places its second.
+   Each second stone must be separated from its first by at least one empty
+   point along an unobstructed board line. They cannot be adjacent.
+
+## Understanding survival
+
+A group needs a path to a **different friendly group**. Two separated friendly
+stones with an empty point between them support each other. Two adjacent stones
+alone form one group, so they do not support each other. An intervening stone
+blocks a path; seeing another part of the same group is insufficient.
+
+During ordinary play, a legal placement may be adjacent to a friendly stone.
+It only needs an unobstructed straight line to an existing friendly stone.
+Legal placement and survival are different conditions.
+
+When your opponent cuts your group's last path, you have one turn to save it:
+restore a path or connect it to a living group. If it is still dead, it is removed
+at the start of the opponent's next turn. Little Golem resolves that boundary
+at the end of your rescue turn, so the next player already sees the removals.
+The special opening establishes both colours before ordinary removal begins.
+
+## Sending and correcting a move
+
+Selecting a point or colour does not submit it. Review the pending move, then
+press **Send move**. The colour-choice move explicitly names Keep or Swap.
+Cancel the pending move before sending to choose again. The board handles
+legal placements and removals. Pass is available only if no placement exists.
+You may also resign.
+
+## Formats and computer opponents
+
+Only Meridians **114 points with pie rule** is currently implemented; the
+smaller and larger boards are not included. GolemBot One through Five are
+registered for test games. Their levels are not calibrated human ratings.
+Automatic analysis of completed games is not currently provided.
