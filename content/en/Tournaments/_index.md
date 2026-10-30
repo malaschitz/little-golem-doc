@@ -11,13 +11,14 @@ lastmod: 2026-10-30
 Little Golem runs tournaments for every game:
 
 * Championship
+* [Speed League](speed-league/) (upcoming)
 * Mini Cup
 * Ladder
 * User tournaments
 
 Players can also use the Waiting Room for rated casual games.
 
-[Time control](/time/) is used in all tournaments.
+See [time controls and vacation](/time/). Speed League uses its own faster clock.
 
 ## Championship
 
@@ -35,6 +36,14 @@ Players finishing as low as **fifth** stay in their current league.
 
 A new championship starts for each variant twice a year. The [calendar](calendar/) lists the start dates for each variant.
 
+
+## Speed League
+
+Speed League is an upcoming recurring competition for players who prefer more
+frequent moves. The planned format is five-player groups, with two games against
+each opponent, using **72 hours + 12 hours per turn, capped at 72 hours**.
+The target first start is **15 November 2026**.
+See [Speed League](speed-league/) for the proposal and details still to be announced.
 
 ## Mini Cup
 

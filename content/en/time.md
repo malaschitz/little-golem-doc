@@ -6,7 +6,7 @@ description: >
   Game time and vacation
 lastmod: 2026-10-30
 ---
-At the beginning of a game, each player has 240 hours (10 days) in their time bank.
+The standard correspondence time control works as follows. At the beginning of a game, each player has 240 hours (10 days) in their time bank.
 After each turn, 36 hours are added to the player's time bank. The time bank cannot exceed 240 hours.
 
 If a player exceeds the time limit, one day of **vacation** is used automatically. If the player has no vacation left, the game is lost on time.
@@ -16,3 +16,9 @@ If a player exceeds the time limit, one day of **vacation** is used automaticall
 Each player has 5 days of vacation per year. A member of Little Golem has 30 days of vacation per year.
 
 When vacation is used, 24 hours are added to all of that player's games. Vacation is therefore shared by all active games, not tracked separately per game.
+
+## Speed League
+
+The upcoming [Speed League](/tournaments/speed-league/) uses a faster time
+control: **72 hours initially, plus 12 hours per turn, capped at 72 hours**.
+Its vacation policy will be announced before play begins.
