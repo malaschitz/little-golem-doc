@@ -1,7 +1,7 @@
 ---
 title: "Meridians"
 date: 2026-10-26
-lastmod: 2026-10-28
+lastmod: 2026-10-30
 draft: false
 description: "Meridians 114: paths, group survival and colour choice."
 weight: 210
@@ -34,6 +34,10 @@ and human strength remain under evaluation; levels are not human ratings.
 
 [Publisher rules](https://cdn.shopify.com/s/files/1/0578/3502/8664/files/Meridians_EN.pdf?v=1693585479).
 Permission for the Little Golem implementation was granted by Kanare.
+
+![Meridians 114 board with light and dark groups on the intersections](/games/meridians-board.png)
+
+*Meridians uses 114 intersections. Stones stay on the board while their groups gain or lose paths to one another.*
 
 ## Opening step by step
 

@@ -1,7 +1,7 @@
 ---
 title: "Backgammon"
 date: 2026-10-19
-lastmod: 2026-10-20
+lastmod: 2026-10-30
 weight: 20
 description: >
   Rules, controls, computer opponents and game analysis.
@@ -17,6 +17,10 @@ formats:
 | 7-point match | Orange | A sequence of games until a player reaches at least seven points, with a doubling cube and the Crawford rule. |
 
 Both formats support computer opponents and analysis of completed games.
+
+![Backgammon seven-point match with both colours of checkers and the doubling cube](/games/backgammon-board.png)
+
+*A seven-point match on the orange board. The doubling cube is currently at 2.*
 
 ## Moving the checkers
 

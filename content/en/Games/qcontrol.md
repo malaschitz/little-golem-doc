@@ -1,7 +1,7 @@
 ---
 title: "Quantum Control"
 date: 2026-10-26
-lastmod: 2026-10-28
+lastmod: 2026-10-30
 draft: false
 description: "Standard Quantum Control: placement, captures and seven-area scoring."
 weight: 260
@@ -36,6 +36,10 @@ is separate from move-selection bots and is not provided by this implementation.
 
 [Publisher rules](https://cdn.shopify.com/s/files/1/0578/3502/8664/files/QuantumControl_QuantumLeap_EN.pdf?v=1782373284).
 Implementation agreement with Néstor was confirmed by Richard.
+
+![Quantum Control board showing seven areas, dark gaps and both colours of stones](/games/qcontrol-board.png)
+
+*The seven areas decide the result. Dark gaps count when measuring a jump but cannot hold stones.*
 
 ## Placement step by step
 
