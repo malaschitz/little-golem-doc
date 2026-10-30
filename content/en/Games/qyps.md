@@ -4,6 +4,7 @@ date: 2021-07-26
 weight: 270
 description: >
   Game invented by Richard Malaschitz in 2016
+lastmod: 2026-10-30
 ---
 
 ## Rules
@@ -14,13 +15,13 @@ The game is played on a triangular board. The game is played with special stones
 
 ![](/games/qyps01.png)
 
-- Number of colors is size+1
-- All color combinations are in game
-- The number of stones is equal to the number of fields on the board
-- The size of rack for player's stones depends on size of board (3 for size 5, 5 for size 8)
-- Each player has his own stones on rack. After the initial racks are dealt,
+- The number of colors is the board size plus one.
+- All color combinations are included in the game.
+- The number of stones equals the number of spaces on the board.
+- The size of each player's rack depends on the board size (3 for size 5, 5 for size 8).
+- Each player has their own stones on a rack. After the initial racks are dealt,
   the opening choice is either `swap` or `noswap`.
-- When it is a player's turn, he can put several stones on the board. At least
+- On their turn, a player can place several stones on the board. At least
   one stone must come from the player's rack.
 - The stones used in one turn must form one connected path. The path may use
   newly placed rack stones and stones already on the board.

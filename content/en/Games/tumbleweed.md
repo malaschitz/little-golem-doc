@@ -4,20 +4,21 @@ date: 2022-08-12
 weight: 330
 description: >
   Modern game invented by Mike Zapawa during COVID
+lastmod: 2026-10-30
 ---
 
 **Tumbleweed** is a two-player game. 
-It is played on a hexhex board and a sufficient supply of stacked checkers.
+It is played on a hexhex board using a supply of stackable checkers.
 
 ![Tumbleweed in the Little Golem app](/games/tumbleweed-app.png)
 
-A stack can "see" a hex, when they are connected by a straight line, with no stacks in between. 
+A stack can "see" a hex when they are connected by a straight line with no stacks in between.
 The players take turns placing stacks of their tokens on hexes that are seen by at least one friendly stack. 
 The height of every newly-placed stack equals the number of your stacks that see the new stack. 
 Replacing an existing stack with a new stack is possible, as long as the new stack is taller than the previous one. 
 This works with opponent stacks (to capture), or your own stacks (to reinforce).
 
-Before the game, the host sets up the board and the guest decides which side he wants to play.
+Before the game, the host sets up the board and the guest decides which side they want to play.
 On Little Golem the board starts with one neutral stack of height 2 in the
 center. The first move places one black stack and one white stack on two empty
 hexes. The second player may then either accept the colors or play `swap`, which
@@ -41,6 +42,6 @@ The best article about Tumbleweed is on [Abstract Games](https://www.abstractgam
 
 ## Variants
 
-On Little Golem are supported four sizes of board: 4,6,8 and 11.
+Little Golem supports four board sizes: 4, 6, 8 and 11.
 
 ![board](/games/tw01.png)

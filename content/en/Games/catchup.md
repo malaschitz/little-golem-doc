@@ -4,6 +4,7 @@ date: 2021-07-26
 weight: 40
 description: >
   Invented by Nick Bentley in 2010
+lastmod: 2026-10-30
 ---
 
 **Catchup** is a simple abstract game with a devilish dynamic. The goal is to have the largest group of stones on the board when the board is full of stones, but as you get closer to winning, your opponent gets more powerful. Whereas most stone-placement games are about position, Catchup is about timing, position, and the interplay between them.
@@ -12,7 +13,7 @@ description: >
 
 1. Group – a set of connected, like-colored stones on the board. A single stone is also considered a group.
 
-2. Score - your score is the number of stones contained in your largest group. At the beginning of the game, both players' scores are set to 1
+2. Score - your score is the number of stones contained in your largest group. At the beginning of the game, both players' scores are set to 1.
 
 ### Rules:
 
@@ -25,17 +26,17 @@ description: >
 4. The game ends when the board is full. The player with the largest group wins. If the players’ largest groups are the same size, compare their second-largest groups, and so on, until you come to a pair which aren’t the same size. Whoever owns the larger of the two wins.
 
 ## Variants
-Three variants with different board are played on Little Golem.
-### Standard game on size 5
+Three variants with different boards are played on Little Golem.
+### Standard game on a size-5 board
 ![](/games/catchup01.png)
 
-### Game on random board
+### Game on a random board
 ![](/games/catchup02.png)
 
-### Game on on size 7
+### Game on a size-7 board
 ![](/games/catchup03.png)
 
 ## Links
 
-- [Article by Nick Bentley](https://www.nickbentley.games/my-best-game-i-suspect-ketchup/) - rules, a lot of links, print-and-play, 
+- [Article by Nick Bentley](https://www.nickbentley.games/my-best-game-i-suspect-ketchup/) - rules, links and print-and-play materials
 - [Board Game Geek](https://boardgamegeek.com/boardgame/68199/catchup)

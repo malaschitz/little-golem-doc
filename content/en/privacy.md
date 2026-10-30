@@ -4,6 +4,7 @@ date: 2026-07-09
 weight: 99
 description: >
   Privacy policy page
+lastmod: 2026-10-30
 ---
 
 ## Privacy Policy for Little Golem
@@ -14,7 +15,7 @@ This page summarizes how Little Golem uses account and game data to run the serv
 
 Registration requires a login name and an email address. The account also has a password used for login and account recovery.
 
-The profile page can contain optional information such as real name, public email, country, profile text and profile picture. Optional profile fields are visible to other players when they are shown on public player pages. The regular account email is used by Little Golem for account and move notifications and is not shown as the public email unless the player fills a public email field.
+The profile page can contain optional information such as a real name, public email address, country, profile text and profile picture. Optional profile fields are visible to other players when they are shown on public player pages. The regular account email is used by Little Golem for account and move notifications and is not shown as the public email unless the player enters it in the public email field.
 
 ### Game and community data
 

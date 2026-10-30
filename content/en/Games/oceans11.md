@@ -3,16 +3,17 @@ title: "Oceans 11"
 date: 2022-08-28
 weight: 230
 description: >
-  A two player game using poker hands invented by Eliott Adkins.
+  A two-player game using poker hands invented by Eliott Adkins.
+lastmod: 2026-10-30
 ---
 ## Rules (from pagat.com)
 
 ### Introduction
-A two player game using poker hands. 
-Instead of betting players have to decide how to deploy their 54 cards to win the best of 11 poker hands.
+A two-player game using poker hands.
+Instead of betting, players have to decide how to deploy their 54 cards to win the best of 11 poker hands.
 
 ### The Deck(s)
-Two standard international 54-card (52 cards and 2 jokers) decks (one for each player).  
+The game uses two standard international 54-card decks (52 cards and 2 jokers), one for each player.\
 Cards have their usual ranking as in Poker.
 
 ### Object of the Game
@@ -27,7 +28,7 @@ The player with the weaker hand must choose between two options:
 
 - Deal another card from their deck and add it to the row of face-up cards in front of them, to try to improve their poker hand.
 - Concede the hand to the other player.
-  
+
 If a player deals another card, the rows of up-cards are again compared to see which player is weaker, and the lower hand again has the same options as above.  
 If the two players have equally high hands, both must deal an additional card face-up.
 
@@ -44,19 +45,19 @@ If there are fewer than five cards, the hand is ranked as though the remaining c
 
 ### End of the Game
 The first player to win 6 hands is the winner of the game. 
-It follows that once a player is at 5 wins, their opponent cannot concede a hand early unless they run out of cards. When a player runs out of cards, their opponent wins the current hand and then can win additional hands by simply playing one card from their stock, as long as their stock persists.  If both players run out of cards, the player with the most wins is the champion.  
+It follows that once a player is at 5 wins, their opponent cannot concede a hand early unless they run out of cards. When a player runs out of cards, their opponent wins the current hand and then can win additional hands by simply playing one card from their stock, as long as their stock lasts.  If both players run out of cards, the player with the most wins is the champion.\
 If they win an equal number of hands, the game is a draw.
 
 ## Variants
 
 On LittleGolem, the basic variant is played with 2 wild cards (jokers). Other possible variants are:
-- play without wild cards (52 card deck)
+- play without wild cards (52-card deck)
 - deuces are also wild cards
 - play with 65 cards (5 suits) for 13 hands instead of 11
-- mini version where everyone has half a deck of cards (26) for 5 games or 27 cards (one joker in deck).
+- a mini version in which each player has half a deck (26 cards) for 5 hands, or 27 cards with one joker in the deck.
 
 ## Links
 
 - [Pagat](https://www.pagat.com/invented/oceans11.html) - Rules, Info
 - [Board Game Geek](https://boardgamegeek.com/boardgame/348352/oceans-eleven)
-  
+

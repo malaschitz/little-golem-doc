@@ -1,8 +1,9 @@
 ---
-title: "Line of Action"
+title: "Lines of Action"
 date: 2022-08-02
 weight: 190
 description: >
+lastmod: 2026-10-30
 ---
 
 ## Rules 
@@ -21,7 +22,7 @@ Movement
 - A piece may not jump over an enemy piece.
 - A piece may jump over friendly pieces. 
 - A piece may land on a square occupied by an enemy piece, resulting in the latter's capture and removal from the game.
-- A player who is reduced to a single piece wins the game, because his pieces are by definition united. If a move results, due to a capture, in each player having all his pieces in a contiguous body, then either the player moving wins, or the game is **a draw**.
+- A player who is reduced to a single piece wins the game, because their pieces are by definition connected. If a move results, due to a capture, in each player having all their pieces in a connected group, then either the player moving wins, or the game is **a draw**.
 
 ### Initial position
 
@@ -33,11 +34,11 @@ Movement
 
 ## Variants
 
-On Little Golem are implemented these versions of Line of Action.
+Little Golem implements the following variants of Lines of Action.
 
 ### Main variant
 
-Standard variant played on 8x8.
+The standard variant is played on an 8x8 board.
 
 ![](/games/loa01.png)
 

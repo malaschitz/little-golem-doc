@@ -5,6 +5,7 @@ linkTitle: "Calendar"
 weight: 10
 description: >
   Calendar of championships
+lastmod: 2026-10-30
 ---
 
 Championships are scheduled throughout the year. Each variant has two scheduled starts per year. A new championship starts on the listed date when the previous championship for that variant has been completed.
@@ -16,7 +17,7 @@ Championships are scheduled throughout the year. Each variant has two scheduled 
 - WYPS: Italian 14, Japanese 8, Dutch 8
 - Hex: Size 19
 - Reversi: Size 6x6
-- EinStein würfelt nicht!: 3-points match, Backwards capture
+- EinStein würfelt nicht!: 3-point match, Backwards capture
 - Morelli: Size 9
 - ConHex: ConHex
 - Polyomino: penta
@@ -32,7 +33,7 @@ Championships are scheduled throughout the year. Each variant has two scheduled 
 - Twixt PP: Size 24
 - Four in a row: Size 6x7, Size 10x10
 - Lines of Action: Scramble, Quick, Black Hole
-- EinStein würfelt nicht!: 1-point game, 7-points match
+- EinStein würfelt nicht!: 1-point game, 7-point match
 - Havannah: Size 10, Size 7
 - Tumbleweed: Size 8, Size 11
 - Draughts: International Draughts
@@ -53,7 +54,7 @@ Championships are scheduled throughout the year. Each variant has two scheduled 
 - OSKI: French, Spanish, Slovak
 - Hex: Size 13, Size 15
 - Golem Word Game: 100 letters
-- EinStein würfelt nicht!: 11-points match, Black hole
+- EinStein würfelt nicht!: 11-point match, Black hole
 - Slither: Size 13
 - Polyomino: hexa
 - Four in a row: Size 8x8
@@ -91,7 +92,7 @@ Championships are scheduled throughout the year. Each variant has two scheduled 
 - Reversi: Size 8x8
 - DVONN: DVONN
 - Four in a row: Size 9x9
-- EinStein würfelt nicht!: 19-points match
+- EinStein würfelt nicht!: 19-point match
 - Catchup: Size 7
 
 ## June and December 1
@@ -103,7 +104,7 @@ Championships are scheduled throughout the year. Each variant has two scheduled 
 - Gomoku: Gomoku Pro 9x9
 - Dots and Boxes: Size 4x4, Size 5x5
 - Lines of Action: Size 8x8
-- EinStein würfelt nicht!: 5-points match, 50-points match
+- EinStein würfelt nicht!: 5-point match, 50-point match
 - Havannah: Size 5
 - Morelli: Size 11
 - WYPS: English 11, Polish 14, Greek 8, Numeric, English 8

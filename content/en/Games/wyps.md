@@ -3,21 +3,22 @@ title: "WYPS"
 date: 2021-07-26
 weight: 360
 description: >
-  WYPS invented by Richard and Alena Malaschitz in 2002. Final version of rules is from 2017.
+  WYPS was invented by Richard and Alena Malaschitz in 2002. The final version of the rules was published in 2017.
+lastmod: 2026-10-30
 ---
 
-## Short story
+## Brief history
 
 The first version of the game was invented in 2002. 
 The game was played with different rules on the Little Golem server.
-More than 20 variants and more than 800 players were played until the final rules were released.
+More than 800 players tried more than 20 variants before the final rules were released.
 ## Rules
 
 WYPS is an abstract word game for two players.
 
 ### Components 
 
-The game is played on triangular **board** with hexagonal squares.
+The game is played on a triangular **board** with hexagonal squares.
 The rules are the same for all sizes of the board. 
 
 > White's first move is **HIP**
@@ -31,29 +32,29 @@ At the beginning of the game, all the stones are in a bag.
 
 ### Swap move
 
-Each player draws five stones (five for size 8) from the bag. 
+Each player draws stones from the bag (five on a size-8 board).
 The black player can swap the stones between the players.
 All letters must always be swapped.
 
 ### Gameplay
 
-The players form words from their letters and from the letters on the board. If a player uses the opponent's letters on the board, he turns one letter from these tiles to his own side. Instead of forming a word, it is possible to place only one letter from the rack on the board. At least one letter from the tray must be used in the turn. After the turn, up to seven letters are drawn from the tray (depending on the size of the board) if the bag is not empty. The first move is made by the white player. If the player forms the word in a straight line, she turns all used opponent's letters to her own side.
+The players form words from their letters and from the letters on the board. If a player uses the opponent's letters on the board, they flip one of those tiles to their own side. Instead of forming a word, it is possible to place only one letter from the rack on the board. At least one letter from the rack must be used on each turn. After the turn, up to seven replacement letters are drawn (depending on the size of the board), provided the bag is not empty. The first move is made by the white player. If a player forms a word in a straight line, they flip all the opponent's tiles used in that word to their own side.
 
 ![board](/games/wyps02.png)
 
 Play continues with the next player.
 
-> Black player play move **CHINA** and turns over a stone.
+> Black plays **CHINA** and turns over a stone.
 
 ![board](/games/wyps03.png)
 
-> White play move **ARCH** in a straight line and turns over all used oponent's stones.
+> White plays **ARCH** in a straight line and turns over all the opponent's stones used in the word.
 
 ![board](/games/wyps04.png)
 
 ![board](/games/wyps05.png)
 
-### Goal of a game
+### Goal of the game
 
 The object of the game is to form a group of stones connected to all three sides of the board.
 
@@ -62,12 +63,12 @@ The object of the game is to form a group of stones connected to all three sides
 
 ![board](/games/wyps06.png)
 
-> Black's move **SEARCH** interrupts White's atari. And this black move is also an atari.
+> Black's move **SEARCH** breaks White's atari and creates an atari for Black.
 
 ![board](/games/wyps07.png)
 
-> White plays the move **CHILD**. White used two letters from rack and two opponent's stones. 
-> She can flip **C** or **H** to the white side. She decides to flip the letter **H**.
+> White plays **CHILD**, using two letters from the rack and two of the opponent's stones.
+> White can flip **C** or **H** to the white side and chooses **H**.
 
 ![board](/games/wyps08.png)
 
@@ -83,22 +84,22 @@ The object of the game is to form a group of stones connected to all three sides
 
 ### End of game
 
-Play continues as long as a player's group is not connected to all three sides of the board, and the opponent on his turn is unable to break it off. Note that the corners are considered to belong to the two adjacent sides.
+Play continues until a player's group connects all three sides of the board and the opponent cannot break the connection on their next turn. Note that the corners are considered to belong to the two adjacent sides.
 
-> White’s move **FLED**. After this move, black is not able to find the next move. Black gives up the game and White is the winner.
+> White plays **FLED**. Black cannot find a reply and resigns, so White wins.
 
 ![board](/games/wyps14.png)
 
 ## Variants on Little Golem
 
-WYPS is played on Little Golem in multiple languages on sizes: 5,8,11 and 14. 
+WYPS is played on Little Golem in multiple languages on boards of sizes 5, 8, 11 and 14.
 
 There is also a numeric version where the letters are replaced by numbers. 
 You must play even numbers or sequences of numbers.
 
 ### Board sizes and letter distribution
 
-WYPS can be played on any board sizes and in any language. 
+WYPS can be played on any board size and in any language.
 
 #### English
 
@@ -130,7 +131,7 @@ WYPS can be played on any board sizes and in any language.
 | 13 | 9 | 91 | AAAAAABBBC CDDEEEEEEE EEEEEEEFFG GGHHHIIIIK KKLLLLLMMM NNNNNNOOOP PRRRRRRSSS SSSSTTTTTT TUUUUVWZÄÖ Ü |
 | 14 | 9 | 105 | AAAAAAABBB CCDDDEEEEE EEEEEEEEEE EFFGGGGHHH HIIIIIKKKL LLLLMMMNNN NNNNNOOOPP RRRRRRRSSS SSSSSTTTTT TTTTUUUUVW ZZÄÖÜ |
 
-#### Spain 
+#### Spanish
 
 | Size | Rack size | Board size | Letters |
 | --- | --- | --- | --- |
@@ -286,8 +287,8 @@ WYPS can be played on any board sizes and in any language.
 
 The 4-player variant is a lot of fun. Players play together in pairs. Each of the four players has as many stones as in a two-player game. This means that, for example, on a board of size 8, each player has 5 stones. The start of the game is similar to a 2-player game. Players randomly select 4 sets of stones and players sequentially choose their set of stones in a counterclockwise order. The player who picked the stones last starts the game.
 
-In a 4-player game, the Atari rule does not apply. This means that the connection does not have to be broken immediately. If one of the players no longer has stones, the game continues and that player passes their turn.
+In a 4-player game, the atari rule does not apply. This means that the connection does not have to be broken immediately. If one of the players no longer has stones, the game continues and that player passes their turn.
 
-Important rule: players can talk out loud during the game and can analyze their moves together !
+Important rule: players can talk out loud during the game and analyze their moves together!
 
-The game is very challenging because the end phase of the game when there are no more stones in the bag occurs very early. 
+The game is very challenging because the endgame, when no stones remain in the bag, begins very early.

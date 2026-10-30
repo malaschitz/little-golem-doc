@@ -4,6 +4,7 @@ date: 2021-07-26
 weight: 320
 description: >
   
+lastmod: 2026-10-30
 ---
 
 StreetSoccer is a two-player football board game by Corné van Moorsel. Little
@@ -14,7 +15,7 @@ Golem uses the legacy online flow from the Java implementation.
 ## Setup
 
 Yellow starts at the bottom goal and red starts at the top goal. Each player
-has five players on the field, including one keeper. At the beginning the
+has five players on the field, including one keeper. At the beginning, the
 keeper and one field player are already placed. The first phase is compressed
 into two setup moves:
 
@@ -26,7 +27,7 @@ into two setup moves:
   except when the ball is there.
 
 After both setup moves, Yellow kicks off. The kickoff die is generated from the
-two first virtual dice as the absolute difference between them, ignoring zero.
+first two virtual dice as the absolute difference between them, ignoring zero.
 The kickoff places only the ball; it cannot score a goal.
 
 ## Turn
@@ -57,7 +58,7 @@ moves that surround the ball so tightly that the opponent cannot reach it.
 ## Goals and restart
 
 A goal is scored when the ball crosses the opponent's end line through the goal
-area. On Little Golem the goal mouth is the four central columns, and the last
+area. On Little Golem, the goal mouth is the four central columns, and the last
 field before the end line must be one of the two fields directly in front of
 the goal.
 

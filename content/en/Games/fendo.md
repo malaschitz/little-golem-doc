@@ -4,11 +4,12 @@ date: 2023-04-30
 weight: 120
 description: >
   A modern abstract board game by Dieter Stein.
+lastmod: 2026-10-30
 ---
 
 ## Information
 
-Fendo is probably Dieter Stein's best board game. It meets exactly all the prerequisites for a perfect abstract game: very simple rules, deep strategy and tactics. In addition, there is no possibility of a draw in the game. The game is also very nicely aesthetically made of wood. 
+Fendo is probably Dieter Stein's best board game. It has all the ingredients of a perfect abstract game: very simple rules, deep strategy and tactics. In addition, there is no possibility of a draw in the game. The physical game is also beautifully made of wood.
 
 ![Fendo in the Little Golem app](/games/fendo-app.jpg)
 
@@ -24,7 +25,7 @@ region of squares surrounded by board edges and fences. A closed area belongs to
 the color of the single piece inside it. Areas with no piece, or with pieces of
 both players, are not scored for either player.
 
-On a turn a player must make one of these actions:
+On a turn, a player must take one of these actions:
 
 - Move one of their pieces in the open area and then build one fence.
 - Add one new piece from hand to an empty legal square.

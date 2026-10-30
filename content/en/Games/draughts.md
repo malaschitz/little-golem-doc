@@ -4,6 +4,7 @@ date: 2021-07-26
 weight: 90
 description: >
   Classic board game
+lastmod: 2026-10-30
 ---
 
 ![](https://upload.wikimedia.org/wikipedia/commons/e/e5/Courbet_-_The_Draughts_Players%2C_1844.jpg)
@@ -13,7 +14,7 @@ description: >
 
 ## Variants
 
-On Little Golem is played several variants.
+Several variants are played on Little Golem.
 
 ### English Draughts 
 
@@ -41,7 +42,7 @@ ordinary games use GAYP, "go as you please".
 #### Links
 
 - [Wikipedia](https://en.wikipedia.org/wiki/English_draughts)
-- [WCDF](https://wcdf.net/) - World Checkers and Draughts federation
+- [WCDF](https://wcdf.net/) - World Checkers and Draughts Federation
 - [Board Game Geek](https://boardgamegeek.com/boardgame/2083/checkers)
 
 ### International draughts

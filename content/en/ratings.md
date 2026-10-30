@@ -4,27 +4,28 @@ date: 2023-04-28
 weight: 10
 description: >
   How ratings are calculated on LG
+lastmod: 2026-10-30
 ---
 
 A standard Elo rating system is used to calculate ratings. It is a method first used in chess. A detailed description is available at <https://en.wikipedia.org/wiki/Elo_rating_system>.
 
-For the implementation on the Little Golem server, an initial rating of 1500 is used. The K factor is determined by the number of games played. For the first game this coefficient is equal to 60 and after each game the coefficient decreases by 1. The minimum coefficient of K is 30, after that it does not decrease anymore. The rating cannot fall below 1000. The rating is calculated to four decimal places (one decimal place is displayed). The rating change in each completed game is displayed next to the player's rating. 
+For the implementation on the Little Golem server, an initial rating of 1500 is used. The K factor is determined by the number of games played. For the first game this coefficient is equal to 60 and after each game the coefficient decreases by 1. The minimum K factor is 30; after that, it no longer decreases. The rating cannot fall below 1000. The rating is calculated to four decimal places (one decimal place is displayed). The rating change in each completed game is displayed next to the player's rating.
 
 Ratings go up and down and do not have a permanent value like grandmaster titles in chess. Therefore, Little Golem also has permanent ranks inspired by Go ranks. More information about dan and kyu ranks is available at <https://en.wikipedia.org/wiki/Dan_(rank)>.
 
-Rank starts at 20th kyu. When the rating and win-count conditions are met, a higher rank is obtained. 1st kyu is followed by 1st dan. The rank is gained **forever** and never drops again.
+Ranks start at 20th kyu. When the rating and win-count conditions are met, a higher rank is obtained. The rank after 1st kyu is 1st dan. Once earned, a rank is held **permanently** and never decreases.
 
-The prerequisite for 19th kyu is a rating of 1250 and at least 1 won game. For 18th kyu it is another 50 rating points, so 1300, and 2 more won games, so at least 3 wins in total. The same pattern continues. For example, the condition for 1st dan is a rating of 2200 and at least 210 won games.
+The prerequisite for 19th kyu is a rating of 1250 and at least one win. For 18th kyu the requirements increase by 50 rating points, to 1300, and two more wins, to at least three wins in total. The same pattern continues. For example, the condition for 1st dan is a rating of 2200 and at least 210 wins.
 
-There is a button on the bottom right of the game page that allows you to toggle between rating and rank display. The toggle applies to all LG server pages. It's not necessary though, as the **tooltip** on the rating works at the same time. 
+There is a button on the bottom right of the game page that allows you to toggle between rating and rank display. The toggle applies to all LG server pages. You can also see the rank in the rating **tooltip**.
 
 The rating is calculated separately for each game and variant.
 
 ## Table
 
-Summary table of conditions for obtaining the rank.
+The table below summarizes the requirements for each rank.
 
-| Rank  | Rating  | Number of winning games  |
+| Rank  | Rating  | Number of wins  |
 |:---:|:---:|---:|
 | 19k | 1250 | 1 |
 | 18k | 1300 | 3 |

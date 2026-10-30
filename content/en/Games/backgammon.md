@@ -32,7 +32,7 @@ using both dice. Later turns use two dice; doubles allow four moves.
 A checker can land on an empty point, a friendly point or a single opposing
 checker. A lone opposing checker is hit onto the bar and must re-enter before
 other checkers move. Two or more opposing checkers block a point.
-Use as many dice as legally possible. If only one unequal die can be used,
+Use as many dice as legally possible. If the dice show different values and only one can be used,
 use the higher one if possible. Bearing off starts only when all remaining
 checkers are in the home board. An oversized die can bear off only the checker
 furthest from the exit. The first player to bear off all checkers wins.

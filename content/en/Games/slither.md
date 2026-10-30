@@ -4,6 +4,7 @@ date: 2021-07-26
 weight: 310
 description: >
   A dynamic two-player connection game by Corey L. Clark that also features an advanced variant.
+lastmod: 2026-10-30
 ---
 
 ## Slither (by Corey L. Clark)
@@ -20,7 +21,7 @@ For the new player, either version of Slither will open up a world of perplexing
 
 ### Materials
 
-Any square board as well as a supply of stones in two colors with enough stones for each player to cover half the board. You may also find something to designate a player's edges.
+Use a square board and a supply of stones in two colors, with enough stones for each player to cover half the board. You may also find something to designate a player's edges.
 
 ### Objective
 
@@ -64,7 +65,7 @@ A good strategy in Slither is to create flexible shapes for yourself while explo
 
 *Fig. 2* shows some examples of very inflexible shapes for Black which White is exploiting by threatening to cut through. Generally, inflexibility comes from having your stones spaced apart by one intersection. Stones a knight's move apart are very flexible by contrast.
 
-A good tactic in Slither is to split your movement and placement phase between two localities. If you can move a stone or place a stone in a position where it will take both a placement **and** movement by your opponent to counteract it, you'll be able to use your other move to gain a local advantage somewhere else.
+A good tactic in Slither is to split your movement and placement actions between two locations. If you can move a stone or place a stone in a position where it will take both a placement **and** movement by your opponent to counteract it, you'll be able to use your other move to gain a local advantage somewhere else.
 
 ### Advanced Slither Strategy
 

@@ -3,10 +3,11 @@ title: "Chess"
 date: 2021-07-12
 weight: 50
 description: >
-  Classic board game chess
+  The classic board game of chess
+lastmod: 2026-10-30
 ---
 
-Chess is classic board game. Probably the most popular board game in the world, at least in Europe and in America.
+Chess is a classic board game and one of the most popular in the world, particularly in Europe and the Americas.
 
 ![chess](/games/chess01.jpeg)
 [Raffaello Sorbi](https://en.wikipedia.org/wiki/Raffaello_Sorbi) - La partita a scacchi/Chess game
@@ -39,7 +40,7 @@ External detailed references:
 - [wikipedia.org chess](https://en.wikipedia.org/wiki/Chess#Rules)
 - [wikipedia.org chess rules](https://en.wikipedia.org/wiki/Rules_of_chess)
 - [FIDE](https://www.fide.com/) - International Chess Federation
-- [chess.com](https://www.chess.com/learn-how-to-play-chess) animated and videos
+- [chess.com](https://www.chess.com/learn-how-to-play-chess) - animations and videos
 
 
 ## Variant - Chess960
@@ -53,7 +54,7 @@ rooks. Pawns start on the usual second and seventh ranks.
 Castling still exists, but the final castled positions are the same as in
 standard chess: after kingside castling the king is on the g-file and the rook
 on the f-file; after queenside castling the king is on the c-file and the rook
-on the d-file. The usual requirements still apply: neither king nor castling
+on the d-file. The usual requirements still apply: neither the king nor the castling
 rook has moved, the king is not in check, and the king does not pass through or
 land on an attacked square.
 

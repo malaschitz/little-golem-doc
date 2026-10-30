@@ -3,9 +3,10 @@ title: "Time"
 date: 2021-07-19
 weight: 9
 description: >
-  Time for game, vacation
+  Game time and vacation
+lastmod: 2026-10-30
 ---
-At the beginning of the game, each player has 240 hours (10 days) in his time bank.
+At the beginning of a game, each player has 240 hours (10 days) in their time bank.
 After each turn, 36 hours are added to the player's time bank. The time bank cannot exceed 240 hours.
 
 If a player exceeds the time limit, one day of **vacation** is used automatically. If the player has no vacation left, the game is lost on time.

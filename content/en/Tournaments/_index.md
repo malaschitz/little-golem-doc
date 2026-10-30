@@ -5,6 +5,7 @@ linkTitle: "Tournaments"
 weight: 8
 description: >
   Tournament description
+lastmod: 2026-10-30
 ---
 
 Little Golem runs tournaments for every game:
@@ -24,24 +25,24 @@ The championship is the main type of tournament on LG.
 Players are divided into groups in each league.
 There is only one group in the first league.
 In the second league there are two groups.
-In the third league four groups, etc.
-The championship is played as a double round robin.
+In the third league there are four groups, and so on.
+The championship is played as a double round-robin.
 
-The winner in the first league is the champion.
+The winner of the first league is the champion.
 
 The **top two** players in each group advance to the next higher league. 
-Players up to **fifth** stay playing in their league. 
+Players finishing as low as **fifth** stay in their current league.
 
 A new championship starts for each variant twice a year. The [calendar](calendar/) lists the start dates for each variant.
 
 
 ## Mini Cup
 
-The Basic Round tournament starts immediately when three players are entered. 
-The group tournament is played as a double round robin.
+A Basic Round tournament starts as soon as three players have registered.
+Each group is played as a double round-robin.
 Players scoring more than **50% of the possible points will advance to the next level**. 
 
-This is how it continues. 
+The same process continues at each level.
 A player can play any number of tournaments. 
 If a player advances to a level where they have already secured promotion, they will only play in one tournament at that level. 
 However, if a tournament has already started at that level, the player has earned the additional right to play at that level.
@@ -49,9 +50,9 @@ However, if a tournament has already started at that level, the player has earne
 
 ## Ladder 
 
-For each game there is a running tournament. 
-The players are lined up in a list.
-Players challenge the player in the higher position, up to CEIL (SQRT (position)).
+Each game has an ongoing ladder tournament.
+Players are ranked in a list.
+Players may challenge opponents up to CEIL(SQRT(position)) places above them.
 Example:
 
 | Position | CEIL(SQRT(position)) | Can challenge |
@@ -68,7 +69,7 @@ Example:
 |    10    |          4           |      6-9      |
 
 If the challenger wins the game, the challenger overtakes the opponent.
-Each player can challenge at most 1 player and defend against at most 2 players at the same time.
+Each player can challenge at most one player and defend against at most two players at the same time.
 A new ladder game with the same opponent is possible only 21 days after their previous game.
 The game starts immediately when the player registers for the tournament.
 Games are started automatically.
@@ -80,4 +81,4 @@ The Waiting Room is used for rated casual games. A game starts when another play
 
 ## User tournaments
 
-Players can create their own round robin tournaments.
+Players can create their own round-robin tournaments.
