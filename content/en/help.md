@@ -20,7 +20,7 @@ the [mobile applications](/applications/). One account works on all clients.
 ## How do I start a game?
 
 Open **List of games** in the application and choose a game and variant. You can
-register for a Championship, Mini Cup or Ladder, join the Waiting Room, or
+register for a Championship or Ladder, join the Waiting Room, or
 create a user tournament when your account has that option.
 
 Direct player invitations are no longer supported.

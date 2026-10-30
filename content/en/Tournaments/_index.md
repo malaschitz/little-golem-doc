@@ -12,7 +12,6 @@ Little Golem runs tournaments for every game:
 
 * Championship
 * [Speed League](speed-league/) (upcoming)
-* Mini Cup
 * Ladder
 * User tournaments
 
@@ -44,18 +43,6 @@ frequent moves. The planned format is five-player groups, with two games against
 each opponent, using **72 hours + 12 hours per turn, capped at 72 hours**.
 The target first start is **15 November 2026**.
 See [Speed League](speed-league/) for the proposal and details still to be announced.
-
-## Mini Cup
-
-A Basic Round tournament starts as soon as three players have registered.
-Each group is played as a double round-robin.
-Players scoring more than **50% of the possible points will advance to the next level**. 
-
-The same process continues at each level.
-A player can play any number of tournaments. 
-If a player advances to a level where they have already secured promotion, they will only play in one tournament at that level. 
-However, if a tournament has already started at that level, the player has earned the additional right to play at that level.
-
 
 ## Ladder 
 

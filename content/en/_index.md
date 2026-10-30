@@ -24,7 +24,7 @@ Most games are played in [tournaments](/tournaments/). Players can also use the 
 ## Where to start
 
 - [Games](/games/) explains the rules and variants available on Little Golem.
-- [Tournaments](/tournaments/) describes championships, Mini Cups, ladders, user tournaments and the waiting room.
+- [Tournaments](/tournaments/) describes championships, ladders, user tournaments and the waiting room.
 - [Time](/time/) explains the time bank and vacation rules.
 - [Ratings](/ratings/) explains Elo ratings and permanent ranks.
 - [Bots](/bots/) explains where bots are allowed.
