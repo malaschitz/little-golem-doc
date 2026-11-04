@@ -11,7 +11,7 @@ Signed-in players should use
 delivered through the Little Golem private-message system and keeps the request
 connected to the player's account.
 
-If you cannot sign in, send email to [rio@ranka.mobi](mailto:rio@ranka.mobi).
+If you cannot sign in, send email to [ranka.sro@gmail.com](mailto:ranka.sro@gmail.com).
 Do not send passwords or other secrets in a message.
 
 For a forgotten password, first use the recovery option on the
