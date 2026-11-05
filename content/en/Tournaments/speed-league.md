@@ -4,7 +4,7 @@ linkTitle: "Speed League"
 weight: 11
 description: >
   A faster recurring league competition
-lastmod: 2026-10-30
+lastmod: 2026-11-05
 ---
 
 Speed League is an upcoming competition alongside the regular Championship.
@@ -18,14 +18,15 @@ date, not confirmation that a season has already been scheduled.
 ## Time control
 
 Each player starts with **72 hours** in their time bank. After each turn,
-**12 hours** are added, up to a maximum bank of **72 hours**.
+**24 hours** are added, up to a maximum bank of **72 hours**.
 The same time control is planned for every game.
 
 The cap limits the time bank, not the total length of a game or season.
-Long games can still last several months. Over sustained play, this clock can
-require roughly two moves per day in each ongoing game.
+Long games can still last several months. This clock supports daily play in
+each ongoing game. The 72-hour cap is a maximum reserve, not a fresh three-day
+allowance for every turn.
 
-The vacation policy for Speed League will be announced before play begins.
+**No vacation:** vacation time does not extend Speed League clocks.
 
 ## Groups and seasons
 

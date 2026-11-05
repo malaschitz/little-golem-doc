@@ -5,7 +5,7 @@ linkTitle: "Tournaments"
 weight: 8
 description: >
   Tournament description
-lastmod: 2026-10-30
+lastmod: 2026-11-05
 ---
 
 Little Golem runs tournaments for every game:
@@ -40,7 +40,7 @@ A new championship starts for each variant twice a year. The [calendar](calendar
 
 Speed League is an upcoming recurring competition for players who prefer more
 frequent moves. The planned format is five-player groups, with two games against
-each opponent, using **72 hours + 12 hours per turn, capped at 72 hours**.
+each opponent, using **72 hours + 24 hours per turn, capped at 72 hours**. **No vacation:** vacation time does not extend these clocks.
 The target first start is **15 November 2026**.
 See [Speed League](speed-league/) for the proposal and details still to be announced.
 
