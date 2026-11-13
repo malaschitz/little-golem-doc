@@ -78,13 +78,15 @@ position must not be interpreted as a completed draw.
 ## Playing in the Little Golem client
 
 During insertion, select an edge dot and then the inward destination. The
-**GIPF · double** control selects the piece type while doubles remain legal.
+upper-left corner icon selects single or double pieces while doubles remain legal.
 Confirm the prepared action with **Send**.
 
-For a row decision, select the row if necessary, tap the GIPF pieces you want
-to take, then choose **Take row**. Singles are included automatically. Use
-**Leave row** for an optional pure-GIPF row, or **Reclaim GIPF** when available
-before insertion. Confirm the decision with Send. Row decisions may therefore
+For a row decision, use the upper-left arrow to cycle eligible rows if necessary,
+tap the GIPF pieces you want to take, then use the upper-right checkmark
+(**Take row**). Singles are included automatically. The lower-right icon
+skips an optional pure-GIPF row (**Leave row**), or enters **Reclaim GIPF**
+before insertion. A back arrow exits reclaim selection. Tooltips name each
+icon; controls stay inside the board so row decisions do not resize it. Confirm the decision with Send. Row decisions may therefore
 require the other player to act before the next insertion.
 
 ## External rules and further reading
