@@ -74,6 +74,20 @@ another mill during movement, you may not immediately reverse that transfer on
 your next turn to form a mill again. Little Golem applies this restriction during
 flying too. A different legal action remains possible.
 
+For example, moving F4–G4 from the F6–F4–F2 mill into the G7–G4–G1
+mill prevents G4–F4 on your next turn. Play a different move first. Simply
+opening a mill without forming another does not impose this restriction.
+
+## Coordinates and controls
+
+The board uses files **a–g** and ranks **1–7**, with a1 at the lower left in
+normal orientation. Labels rotate with the board. You can click a stone and its
+destination, or drag it there. Confirm the prepared move with **Send**; after
+forming a mill, first select the opposing stone to capture.
+
+History uses coordinates: **F2** places a stone, **G4-F4** moves it, and
+**F4-G4 xB4** also captures the stone on B4. Older moves display the same notation.
+
 ## Automatic draws
 
 These rules apply to all three variants:

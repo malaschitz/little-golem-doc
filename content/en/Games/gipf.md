@@ -77,7 +77,10 @@ position must not be interpreted as a completed draw.
 
 ## Playing in the Little Golem client
 
-During insertion, select an edge dot and then the inward destination. The
+During insertion, select an edge dot and then the inward destination, or drag
+from the edge dot to that first inward point. Invalid or cancelled drops leave
+the position unchanged. Reserve counts appear as numbered stones inside the
+upper-right and lower-right corners of the board. The
 upper-left corner icon selects single or double pieces while doubles remain legal.
 Confirm the prepared action with **Send**.
 
