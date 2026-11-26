@@ -1,0 +1,16 @@
+.shogi-piece-guide {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+.shogi-piece-description { flex: 1 1 14rem; }
+.shogi-piece-art {
+  display: flex;
+  gap: .75rem;
+  margin-bottom: .5rem;
+  figure { margin: 0; text-align: center; }
+  img { height: 48px; width: auto; }
+  figcaption { font-size: .8rem; }
+}

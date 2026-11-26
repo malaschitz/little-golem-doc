@@ -1,0 +1,10 @@
+<div class="shogi-piece-guide">
+  <img width="140" height="140" loading="lazy" src="/games/shogi/moves/{{ .Get 0 }}.svg" alt="Movement of {{ .Get 1 }}, forward is up">
+  <div class="shogi-piece-description">
+    {{ if or (.Get 2) (.Get 3) }}<div class="shogi-piece-art">
+      {{ with .Get 2 }}<figure><img height="48" src="/games/shogi/pieces/{{ . }}.png" alt=""><figcaption>Original</figcaption></figure>{{ end }}
+      {{ with .Get 3 }}<figure><img height="48" src="/games/shogi/pieces/{{ . }}.png" alt=""><figcaption>Promoted</figcaption></figure>{{ end }}
+    </div>{{ end }}
+    {{ .Inner | markdownify }}
+  </div>
+</div>
