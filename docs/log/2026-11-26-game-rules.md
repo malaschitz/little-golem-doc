@@ -1,0 +1,1 @@
+The operator reported that Game rules opened the Japanese federation website. Publish an English Chu Shogi guide with a piece key, movement legend and the Little Golem board. Add guides for Classic Words and YINSH. Check the public variant catalogue, private editions, board setups and old records against the family guides.

@@ -92,10 +92,9 @@ Play continues until a player's group connects all three sides of the board and 
 
 ## Variants on Little Golem
 
-WYPS is played on Little Golem in multiple languages on boards of sizes 5, 8, 11 and 14.
+English, Russian and Slovak are available on sides 5, 8, 11 and 14. Dutch, French, German, Greek, Italian, Japanese, Polish and Spanish are available on sides 8 and 14.
 
-There is also a numeric version where the letters are replaced by numbers. 
-You must play even numbers or sequences of numbers.
+**Numeric** uses side 10 and a rack of six. **Numeric small** uses side 7 and a rack of seven. Play a run of identical digits or consecutive ascending digits, such as 333 or 456. A wildcard can stand for a digit.
 
 ### Board sizes and letter distribution
 
@@ -282,6 +281,26 @@ WYPS can be played on any board size and in any language.
 | 12 | 8 | 78 | AAAAAABBCC DDEEEEEEFG HHIIIIJKKK LLLLMMMNNN NOOOOOPPRR RRSSTTTUUU VVVYZZÁÁÉÍ ÍÚÝČĽŠŤŽ |
 | 13 | 9 | 91 | AAAAAAABBC CDDDEEEEEE FGHHIIIIIJ JKKKKLLLLM MMMNNNNNOO OOOOPPPRRR RSSSTTTUUU VVVYZZÁÁÉÍ ÍÚÚÝČČĽŠŠŤ Ž |
 | 14 | 9 | 105 | AAAAAAAABB CCDDDEEEEE EEEFGHHIII IIIJJKKKKL LLLLMMMMNN NNNNOOOOOO OOPPPRRRRR SSSTTTTUUU UVVVVYYZZÁ ÁÁÉÍÍÚÚÝČČ ĽŠŠŤŽ |
+
+## Earlier WYPS games
+
+Older games can show a code from an earlier ruleset. For example, EN7F used a full board, EN13P5 a five-tile pool and L and L2 marked successive line-play rules. These codes identify archived games. The language and size choices for new games are listed above.
+
+| Language | Codes in archived games |
+| --- | --- |
+| Czech | CZ10, W4CZ8 |
+| German | DE, DE10, DE13, DE13L, DE13L2, DE7, DE7L, DE7L2, DEM, DES |
+| English | EN, EN10, EN10F, EN10L, EN10L2, EN13, EN13L, EN13L2, EN13P5, EN16, EN7, EN7F, EN7L, EN7L2, ENM, ENQ, ENS, ULTIMATE |
+| Spanish | ES, ES10, ES13, ES13L, ES13L2, ES7, ES7L, ES7L2, ESM, ESS |
+| French | FR, FR10, FR13, FR13L, FR13L2, FR7, FR7L, FR7L2, FRM, FRS |
+| Greek | GR13, GR13L, GR7L, GR7L2 |
+| Italian | IT, IT10, IT13, IT13L, IT13L2, IT7, IT7L, IT7L2, ITM, ITS |
+| Japanese | JP, JPM, JPS |
+| Dutch | NL, NL10, NL13, NL13L2, NL7, NL7L2, NLM, NLS |
+| Numeric | ASCENDINGL, PRIME, SEQUENCE |
+| Numeric (ascending) | ASCENDING |
+| Polish | PL, PLM, PLS |
+| Slovak | SK, SK13, SK13L, SK13L2, SK7, SK7L, SK7L2, SKM, SKS |
 
 ## WYPS for 4 players
 

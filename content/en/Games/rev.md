@@ -36,6 +36,8 @@ number of disks, the game is a draw.
 | Size 10x10 | 10x10 |
 | Size 12x12 | 12x12 |
 
+Each of these four sizes also offers **Corner** (one unplayable square at each corner) and **Diamond** (three unplayable squares at each corner). From the standard 8×8 variant you can instead select a full 14×14, 16×16, 18×18 or 20×20 board.
+
 ## Links
 
 - [Reversi on Wikipedia](https://en.wikipedia.org/wiki/Reversi)

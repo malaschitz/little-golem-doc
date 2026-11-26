@@ -57,7 +57,7 @@ Initial move: NEB
 
 ## Variants
 
-The game is played in seven languages.
+Choose English, French, German, Greek, Italian, Dutch, Slovak or Spanish. The language determines the dictionary used to check words.
 
 
 

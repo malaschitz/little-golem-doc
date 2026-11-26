@@ -17,6 +17,8 @@ For the new player, either version of Slither will open up a world of perplexing
 
 ---
 
+Little Golem offers 9×9 and 13×13 boards. The same connection goal applies on both.
+
 ## Rules
 
 ### Materials

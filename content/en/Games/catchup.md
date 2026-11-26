@@ -36,6 +36,10 @@ Three variants with different boards are played on Little Golem.
 ### Game on a size-7 board
 ![](/games/catchup03.png)
 
+## Earlier games
+
+Saved games marked **STANDARD** award the next player up to three stones when the largest group on the board grew, and otherwise up to two after the opening. **RANDOM** preserves its original generated board. New offers use the variants listed above.
+
 ## Links
 
 - [Article by Nick Bentley](https://www.nickbentley.games/my-best-game-i-suspect-ketchup/) - rules, links and print-and-play materials

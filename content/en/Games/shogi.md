@@ -10,6 +10,8 @@ Shogi is a chess-family game with drops: captured pieces can return to the
 board as your own pieces. Little Golem supports standard Shogi and several
 smaller variants.
 
+The 12 × 12 [Chu Shogi guide](/games/chu-shogi/) explains its lion, permanent captures and crown prince. The rules below cover the other Shogi variants.
+
 ## Common rules
 
 Sente moves first. Players alternate one move at a time.

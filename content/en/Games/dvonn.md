@@ -30,7 +30,9 @@ their own pieces until the board is full. On Little Golem, White places the
 first red piece, Black places the first normal piece, and White gets the last
 normal piece automatically when only one empty space remains.
 
-### Movement
+#With **Random setup**, the server places all 49 stones and White starts the movement phase. The default is manual placement.
+
+## Movement
 
 White makes the first move in the movement phase.
 

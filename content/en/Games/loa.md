@@ -62,5 +62,7 @@ There is a black hole in the middle of the board where every stone disappears.
 ![](/games/loa05.png)
 
 
+The standard 8×8 variant also offers 6×6, 12×12 and 18×18 boards. Select one under **Subvariant** when creating a game.
+
 ## Links
 - [Wikipedia](https://en.wikipedia.org/wiki/Lines_of_Action)

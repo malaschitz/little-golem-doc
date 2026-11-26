@@ -85,6 +85,8 @@ in capture play and uses the standard move submission workflow. You may resign.
 
 ## Formats and computer opponents
 
+Choose **Random setup** to let the server play a legal placement sequence and begin at the resulting position. Otherwise the players place their pieces.
+
 This is standard Quantum Control, without Blitz or swap. Quantum Leap is a
 separate game with different rules. GolemBot One through Five are registered
 for test games. Their levels are not calibrated human ratings. Completed-game

@@ -46,6 +46,10 @@ the winner.
 
 ![](/games/gmk03.png)
 
+### Recorded Renju games
+
+The replay viewer also supports Renju on a 15×15 board with the Taraguchi-10 opening. Black wins with exactly five and has restrictions on overlines, double fours and double threes. White wins with five or more. This format is available for replay only.
+
 ## Links
 
 [Wikipedia](https://en.wikipedia.org/wiki/Gomoku#Tournament_Opening_Rules)

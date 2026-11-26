@@ -9,9 +9,7 @@ description: >
 ---
 
 Morris is one game family with three variants. These are the **Little Golem
-rules**, including our automatic draw policy. The games are currently available
-in a private trial; this page does not announce a public release or claim that
-all draw rules are identical to a particular tournament federation's rules.
+rules**, including our automatic draw policy. The draw limits below apply to all three variants on Little Golem.
 
 | Variant | Stones per player | Board surface | Placement and movement |
 | --- | --- | --- | --- |

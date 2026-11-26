@@ -30,7 +30,7 @@ After the first move, the second player can play a **swap** move and switch side
 
 ## Variants
 
-On Little Golem, Hex is played on four board sizes: 11, 13, 15 and 19.
+Choose size 11, 13, 15 or 19 in the lobby. The standard size 13 variant also offers 7×7, 9×9 and 17×17 boards under **Subvariant**. The connection goal and swap rule apply on each size.
 
 ## Links
 

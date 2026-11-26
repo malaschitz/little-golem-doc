@@ -52,6 +52,8 @@ White then moves next.
 | Size 30 | 30x30 |
 | Size 48 | 48x48 |
 
+The size 24 variant also offers boards of side 8, 9, 10, 12, 14, 16, 18, 20 or 22 under **Subvariant**.
+
 ## Links
 
 - [Twixt on Wikipedia](https://en.wikipedia.org/wiki/TwixT)

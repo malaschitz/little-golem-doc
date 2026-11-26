@@ -77,7 +77,6 @@ You may also resign.
 
 ## Formats and computer opponents
 
-Only Meridians **114 points with the pie rule** is currently implemented; the
-smaller and larger boards are not included. GolemBot One through Five are
+The standard board has **114 points** and uses the pie rule. Choose **Small · 5/6** or **Large · 7/8** under Subvariant for a different board size with the same rules. GolemBot One through Five are
 registered for test games. Their levels are not calibrated human ratings.
 Automatic analysis of completed games is not currently provided.
