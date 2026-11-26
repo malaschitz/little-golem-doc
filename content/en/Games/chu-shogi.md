@@ -6,11 +6,11 @@ description: "The lion, promotions and competition rules on the 12 × 12 board."
 
 Each player starts with 46 pieces on a 12 × 12 board. Select a piece to see its destinations. Captured pieces leave play permanently. To win, capture or mate the opponent's last royal piece. Promoting the drunk elephant creates a crown prince who can carry on after the king falls.
 
-![Starting position with Western letters. The lion (Ln) starts beside the free king (FK).](/games/chu-western.png)
+![Starting position with international picture pieces. The lion starts beside the free king.](/games/chu-international.png)
 
 ## Reading the pieces
 
-Open the **Game design** palette under the board. On narrow screens open **Game actions (⋯)** and select a design. **Kanji** uses the traditional characters. **Western letters** uses English abbreviations, for example **Ln** for the lion and **CP** for the crown prince. **Movement diagram** shows the piece’s moves facing its own forward direction. A circle means one step, a line means any unobstructed distance, and a star marks a jump. For the lion the diagram shows all reachable squares. Its two captures and return move are explained below.
+Open the **Game design** palette under the board. On narrow screens open **Game actions (⋯)** and select a design. **Kanji** uses the traditional characters. **International pictures** uses pictograms for each piece and its promotion. The abbreviations in the table below are used in move notation. **Movement diagram** shows the piece’s moves facing its own forward direction. A circle means one step, a line means any unobstructed distance, and a star marks a jump. For the lion the diagram shows all reachable squares. Its two captures and return move are explained below.
 
 | Kanji | Letters | Piece | Promotes to |
 | --- | --- | --- | --- |
@@ -58,5 +58,7 @@ The player who initiates a repeated sequence must vary before a fourth occurrenc
 
 See the federation's illustrated examples of lion captures and endgames. [Japanese Chu Shogi Federation competition rules](https://www.chushogi-renmei.com/kouza/rule2007.htm)
 
+
+International piece artwork by CouchTomato87, rasterized for Little Golem. [Lishogi artwork](https://github.com/WandererXII/lishogi/tree/268c10c7f11d64ad306090c397bb38319c8d8cd3/ui/%40build/pieces/assets/chushogi/intl) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 WinBoard also offers a graphical mnemonic set for Chu Shogi. [HaChu author’s illustrated guide](https://hgm.nubati.net/HaChu.html)
