@@ -35,6 +35,7 @@ and a star on c2. Black mirrors this setup on ranks 7 and 6.
 A moon moves one square diagonally forward, toward the opponent's home rank.
 The cycle after moving or swapping is triangle → moon → diamond → star → triangle.
 If your opponent holds three squares of the centre cross, your reply must
-reduce that number below three. If no move can do so, your opponent wins.
+reduce that number below three. You also cannot swap out of the cross if that
+would give your opponent a third centre square. If no move can do so, your opponent wins.
 
 [Play the designer's 8v8 edition](https://play.morphmove.com/)
